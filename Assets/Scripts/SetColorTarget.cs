@@ -21,17 +21,20 @@ public class SetColorTarget : MonoBehaviour
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             if (Physics.Raycast(ray, out hit, 100.0f))
             {
-                if (hit.transform.tag == "Picker")
-                {
+                //if (hit.transform.tag == "Picker")
+                //{
                 Debug.Log(hit.transform.name);
+
+                target.SetColor(my_color);
+
                 // StartCoroutine(ColorSet());
-                target.value = my_color;
-                }
-                else if (hit.transform.tag == "Picture")
-                {
-                Debug.Log(hit.transform.name);
-                    
-                }
+                //target.value = my_color;
+                //}
+                //else if (hit.transform.tag == "Picture")
+                //{
+                //Debug.Log(hit.transform.name);
+
+                //}
             }
 
         }

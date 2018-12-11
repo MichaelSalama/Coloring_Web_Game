@@ -8,6 +8,11 @@ public class ColorVariable : ScriptableObject
     //[HideInInspector]
     public Color32 value;
 
+    public void SetColor(Color32 color)
+    {
+        value = color;
+    }
+
     public void ReSetColor()
     {
         value = Color.white;
