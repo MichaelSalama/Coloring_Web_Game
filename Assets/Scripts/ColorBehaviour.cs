@@ -12,6 +12,15 @@ public class ColorBehaviour : MonoBehaviour
 
     private void Update()
     {
-        sr.color = target.value;
+        if (Input.GetMouseButton(0))
+        {
+            RaycastHit hit;
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            if (Physics.Raycast(ray, out hit, 100.0f) && hit.transform.tag == "Picture")
+            {
+                Debug.Log(hit.transform.name);
+                sr.color = target.value;
+            }
+        }
     }
 }

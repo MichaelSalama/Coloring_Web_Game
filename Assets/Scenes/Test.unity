@@ -124,8 +124,9 @@ GameObject:
   - component: {fileID: 380522951}
   - component: {fileID: 380522950}
   - component: {fileID: 380522949}
+  - component: {fileID: 380522952}
   m_Layer: 0
-  m_Name: to be changed
+  m_Name: Picture
   m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -202,6 +203,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &380522952
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 380522948}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.1
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
