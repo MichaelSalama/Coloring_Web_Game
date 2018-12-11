@@ -5,15 +5,46 @@ using UnityEngine;
 public class SetColorTarget : MonoBehaviour
 {
     public ColorVariable target;
-    SpriteRenderer sr;
-
+    //Renderer sr;
+    public Color32 my_color;
     private void Awake()
     {
-        sr = GetComponent<SpriteRenderer>();
+        my_color = GetComponent<SpriteRenderer>().color;
+        //sr = GetComponent<renderer>();
     }
 
     private void Update()
     {
-        target.value = sr.color;
+        if (Input.GetMouseButton(0))
+        {
+            RaycastHit hit;
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            if (Physics.Raycast(ray, out hit, 100.0f))
+            {
+                if (hit.transform.tag == "Picker")
+                {
+                Debug.Log(hit.transform.name);
+                // StartCoroutine(ColorSet());
+                target.value = my_color;
+                }
+                else if (hit.transform.tag == "Picture")
+                {
+                Debug.Log(hit.transform.name);
+                    
+                }
+            }
+
+        }
     }
+
+    private void OnDisable()
+    {
+        target.ReSetColor();
+    }
+
+    //IEnumerator ColorSet()
+    //{
+    //    Debug.Log("Coroutine");
+    //    yield return new WaitForEndOfFrame();
+    //}
 }
