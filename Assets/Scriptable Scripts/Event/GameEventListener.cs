@@ -1,26 +1,27 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 using UnityEngine.Events;
-
-namespace GameEvents
+namespace Raskulls.Event
 {
     public class GameEventListener : MonoBehaviour
     {
         public GameEvent Event;
         public UnityEvent Response;
 
-        public void OnEnable()
+        internal void OnEnable()
         {
-            Event.RegisterListner(this);
+            Event.RegisterListener(this);
         }
-
-        private void OnDisable()
+        internal void OnDisable()
         {
             Event.UnregisterListener(this);
         }
-
-        public void OnEventRaised()
+        internal void OnEventRaised()
         {
+
             Response.Invoke();
         }
+
+
     }
 }

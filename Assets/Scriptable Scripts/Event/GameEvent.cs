@@ -1,34 +1,28 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace GameEvents
+namespace Raskulls.Event
 {
-    [CreateAssetMenu(fileName = "NewGameEVent", menuName = "Events/GameEvent", order = 1)]
+
+    [CreateAssetMenu(menuName = "Raskulls/Event/GameEvent")]
     public class GameEvent : ScriptableObject
     {
-        private List<GameEventListener> listeners = new List<GameEventListener>();
+        private List<GameEventListener> Listeners = new List<GameEventListener>();
 
         public void Raise()
         {
-            for (int i = listeners.Count - 1; i >= 0; i--)
+            for (int i = Listeners.Count - 1; i >= 0; i--)
             {
-                listeners[i].OnEventRaised();
+                Listeners[i].OnEventRaised();
             }
         }
-
-        public void RegisterListner(GameEventListener listener)
+        public void RegisterListener(GameEventListener listener)
         {
-            if (!listeners.Contains(listener))
-                listeners.Add(listener);
-            else
-                Debug.Log("Listener registered to event.");
+            if (!Listeners.Contains(listener)) Listeners.Add(listener);
         }
-
         public void UnregisterListener(GameEventListener listener)
         {
-            listeners.Remove(listener);
+            if (Listeners.Contains(listener)) Listeners.Remove(listener);
         }
-
     }
 }
