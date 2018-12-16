@@ -32,10 +32,22 @@ public class ImagePicker : MonoBehaviour
         {
             if (obj.activeInHierarchy)
             {
-                for (int i = 0; i < obj.transform.childCount; i++)
+                while (obj.GetComponent<Painting>().paintingAction.Count > 0)
                 {
-                    obj.GetComponent<Painting>().children[i].color = Color.white;
+                    obj.GetComponent<Painting>().Undo();
                 }
+
+            }
+        }
+    }
+
+    public void Previuos()
+    {
+        foreach (GameObject obj in sketchPrefabs)
+        {
+            if (obj.activeInHierarchy)
+            {
+                obj.GetComponent<Painting>().Undo();
             }
         }
     }
