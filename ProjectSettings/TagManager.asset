@@ -41,9 +41,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: FeshaBoy
+    uniqueID: 2029683529
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
   - name: Arms
-    uniqueID: 2029683529
+    uniqueID: 533420279
     locked: 0
