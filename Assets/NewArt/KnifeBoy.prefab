@@ -53,7 +53,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4671805674929940}
-  - component: {fileID: 114750329570848944}
   - component: {fileID: 114366515349884680}
   m_Layer: 0
   m_Name: KnifeBoy
@@ -560,9 +559,9 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1126118566363536}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.81, y: 1.77, z: -0.37169576}
+  m_LocalScale: {x: 0.82520735, y: 0.82520735, z: 0.82520735}
   m_Children:
   - {fileID: 4654346722263484}
   - {fileID: 4259715618563372}
@@ -660,7 +659,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1529181330756674}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.6}
+  m_LocalPosition: {x: 0, y: 0, z: -0.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4671805674929940}
@@ -2245,17 +2244,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   children: []
   pickedColor: {fileID: 11400000, guid: b5c540faedd03b94896419cb2f3c1896, type: 2}
---- !u!114 &114750329570848944
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1126118566363536}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5538b12f548aee746b2b22c5a2d20771, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!212 &212102503841932682
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -2888,7 +2876,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 6
+  m_SortingOrder: 7
   m_Sprite: {fileID: 21300000, guid: f36af7a877058fd4386c87977880b89e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
