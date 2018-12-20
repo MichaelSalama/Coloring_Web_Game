@@ -7,7 +7,8 @@ public class ImagePicker : MonoBehaviour
 
     public IntVariable sketchNumber;
     public List<GameObject> sketchPrefabs;
-
+    [SerializeField]
+    ColorVariable color;
 
     public void ShowSketch()
     {
@@ -24,6 +25,11 @@ public class ImagePicker : MonoBehaviour
         {
             obj.SetActive(false);
         }
+    }
+
+    public void Whity()
+    {
+        color.value = Color.white;
     }
 
     public void ResetToWhite()

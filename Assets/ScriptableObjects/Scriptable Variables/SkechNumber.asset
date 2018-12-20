@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f1fb25984bb1a9c44833c7d93f225b8f, type: 3}
   m_Name: SkechNumber
   m_EditorClassIdentifier: 
-  value: 0
+  value: 5
