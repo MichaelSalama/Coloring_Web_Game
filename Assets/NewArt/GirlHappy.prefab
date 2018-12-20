@@ -104,7 +104,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4391848523299408}
-  - component: {fileID: 114308157550115146}
   - component: {fileID: 114301353791033078}
   m_Layer: 0
   m_Name: GirlHappy
@@ -112,7 +111,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1257334433661990
 GameObject:
   m_ObjectHideFlags: 0
@@ -1888,17 +1887,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   children: []
   pickedColor: {fileID: 11400000, guid: b5c540faedd03b94896419cb2f3c1896, type: 2}
---- !u!114 &114308157550115146
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1242804004265566}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5538b12f548aee746b2b22c5a2d20771, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!212 &212123276052393510
 SpriteRenderer:
   m_ObjectHideFlags: 1

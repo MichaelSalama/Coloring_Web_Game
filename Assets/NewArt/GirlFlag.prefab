@@ -343,14 +343,13 @@ GameObject:
   m_Component:
   - component: {fileID: 4994410163612494}
   - component: {fileID: 114839343333772798}
-  - component: {fileID: 114561290673510358}
   m_Layer: 0
   m_Name: GirlFlag
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1772425055511610
 GameObject:
   m_ObjectHideFlags: 0
@@ -784,8 +783,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1686151182601844}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 18.8, y: 3, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 12.634796, y: 2.9764764, z: -0.37169576}
   m_LocalScale: {x: 0.86586, y: 0.86586, z: 0.86586}
   m_Children:
   - {fileID: 4115579504413500}
@@ -2926,17 +2925,6 @@ PolygonCollider2D:
       - {x: -1.6372279, y: 3.015228}
       - {x: -1.6372279, y: 3.0015845}
       - {x: -1.5417229, y: 2.919723}
---- !u!114 &114561290673510358
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1686151182601844}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5538b12f548aee746b2b22c5a2d20771, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &114839343333772798
 MonoBehaviour:
   m_ObjectHideFlags: 1
