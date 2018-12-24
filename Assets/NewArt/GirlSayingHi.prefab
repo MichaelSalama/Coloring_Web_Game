@@ -129,7 +129,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1262446476957352
 GameObject:
   m_ObjectHideFlags: 0
@@ -359,7 +359,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4236639608898906}
-  - component: {fileID: 114292388798463466}
   - component: {fileID: 114848477777994860}
   m_Layer: 0
   m_Name: GirlSayingHi
@@ -367,7 +366,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &1988468049466618
 GameObject:
   m_ObjectHideFlags: 0
@@ -1987,17 +1986,6 @@ PolygonCollider2D:
       - {x: 6.5489116, y: 0.61396044}
       - {x: 6.712634, y: 0.75039613}
       - {x: 6.712634, y: 1.2688516}
---- !u!114 &114292388798463466
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1959709051907900}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5538b12f548aee746b2b22c5a2d20771, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &114848477777994860
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2137,7 +2125,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 16
+  m_SortingOrder: 15
   m_Sprite: {fileID: 21300000, guid: 76d86ab5902957c428043c2400054e81, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2781,7 +2769,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -6
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: ce17504316496f04886bf5d0a40eef8b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

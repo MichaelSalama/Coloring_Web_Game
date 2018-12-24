@@ -317,6 +317,7 @@ GameObject:
   - component: {fileID: 114349964180836318}
   - component: {fileID: 114641483106781576}
   - component: {fileID: 114224706670010300}
+  - component: {fileID: 114110632004846906}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -355,7 +356,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &1777294122591780
 GameObject:
   m_ObjectHideFlags: 0
@@ -372,7 +373,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1865417719045410
 GameObject:
   m_ObjectHideFlags: 1
@@ -593,7 +594,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 0}
-          m_MethodName: Previuos
+          m_MethodName: ResetToWhite
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -606,6 +607,17 @@ MonoBehaviour:
       m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
         Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   delegates: []
+--- !u!114 &114110632004846906
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1674121502069338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 954953655da943847b501c5e865548b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114117853195201240
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1002,7 +1014,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: e8f24af42c9c9c34fb777145eb4fe868, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9772abd8546faed48b94ae971f363072, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2777,7 +2789,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 0}
-          m_MethodName: Whity
+          m_MethodName: Previuos
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -3115,14 +3127,14 @@ RectTransform:
   m_GameObject: {fileID: 1554326193245880}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.3038027, y: 1.4216464, z: 1.2578325}
   m_Children: []
   m_Father: {fileID: 224062642026415212}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -422}
+  m_AnchoredPosition: {x: 0, y: -490}
   m_SizeDelta: {x: 482, y: 250}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224160100326811760
@@ -3178,10 +3190,10 @@ RectTransform:
   m_Father: {fileID: 224548121006172158}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0.5, y: 0}
+  m_SizeDelta: {x: -1819, y: -980}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224251303843573878
 RectTransform:
@@ -3209,14 +3221,14 @@ RectTransform:
   m_GameObject: {fileID: 1137607447696128}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.85430866, y: 0.95568293, z: 0.82343}
   m_Children: []
   m_Father: {fileID: 224350136272441028}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 32, y: -441}
+  m_AnchoredPosition: {x: -19, y: -467}
   m_SizeDelta: {x: 546, y: 212}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224350136272441028
@@ -3246,7 +3258,7 @@ RectTransform:
   m_GameObject: {fileID: 1724553691447794}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.97397697, y: 1.0105011, z: 0.97397697}
   m_Children: []
   m_Father: {fileID: 224417640889372324}
   m_RootOrder: 0
@@ -3332,7 +3344,7 @@ RectTransform:
   m_GameObject: {fileID: 1966343815054012}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.89, y: 0.89, z: 0.89}
+  m_LocalScale: {x: 0.99012494, y: 0.7023351, z: 0.89}
   m_Children: []
   m_Father: {fileID: 224692432974239742}
   m_RootOrder: 0

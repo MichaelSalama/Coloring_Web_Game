@@ -21,9 +21,12 @@ public class ScreenRecorder : MonoBehaviour
     //to hide game objects during screenshots
     public GameObject hideGameObject;
 
+    //for optimization to capture multiple screenshots
+    public bool optimizeForManyScreenshots = true;
+
     //for extension type
     public enum Format { Raw, JPG, PNG, PPM };
-    public Format format = Format.PNG;
+    public Format format = Format.JPG;
 
     //folder to write output(defaults to data path)
     public string folder;
@@ -33,6 +36,10 @@ public class ScreenRecorder : MonoBehaviour
     private RenderTexture renderTexture;
     private Texture2D screenshot;
     private int counter = 0;    //image no.
+
+    //commands
+    private bool captureScreenshot = false;
+    private bool captureVedio = false;
 
     //create a unique filename using a one-up variable
     private string uniqueFilename(int width, int height)
@@ -67,52 +74,99 @@ public class ScreenRecorder : MonoBehaviour
         return filename;
     }
 
-    public void Capture()
+    public void CaptureScreenschot()
     {
-        //hide optional gameobject if set
-        if (hideGameObject != null)
+        captureScreenshot = true;
+    }
+
+    private void Update()
+    {
+        // use "k" for one screenshot, or hold "v" for continous screehots
+        // this will be modified to use with save button in UI
+        //--------------------------------------------------------
+        captureScreenshot |= Input.GetKey("k");
+        captureVedio = Input.GetKey("v");
+
+        if (captureScreenshot || captureVedio)
         {
-            hideGameObject.SetActive(false);
-        }
+            captureScreenshot = false;
 
-        //create screenschot objects if needed
-        if (renderTexture == null)
-        {
-            //creates off-screen render texture that can be rendered into
-            rect = new Rect(0, 0, captureWidth, captureHeight);
-            renderTexture = new RenderTexture(captureWidth, captureHeight, 24);
-            screenshot = new Texture2D(captureWidth, captureHeight, TextureFormat.RGB24, false);
-        }
+            //hide optional gameobject if set
+            if (hideGameObject != null)
+            {
+                hideGameObject.SetActive(false);
+            }
 
-        //get main camera and manually render scene into rendertexture
-        Camera camera = this.GetComponent<Camera>();    //this script added to the Camera
-        camera.targetTexture = renderTexture;
-        camera.Render();
+            //create screenschot objects if needed
+            if (renderTexture == null)
+            {
+                //creates off-screen render texture that can be rendered into
+                rect = new Rect(0, 0, captureWidth, captureHeight);
+                renderTexture = new RenderTexture(captureWidth, captureHeight, 24);
+                screenshot = new Texture2D(captureWidth, captureHeight, TextureFormat.RGB24, false);
+            }
 
-        //render texture active and then read the pixels
-        RenderTexture.active = renderTexture;
-        screenshot.ReadPixels(rect, 0, 0);
+            //get main camera and manually render scene into rendertexture
+            Camera camera = this.GetComponent<Camera>();    //this script added to the Camera
+            camera.targetTexture = renderTexture;
+            camera.Render();
 
-        //reset active camera texture and render texture
-        camera.targetTexture = null;
-        RenderTexture.active = null;
+            //render texture active and then read the pixels
+            RenderTexture.active = renderTexture;
+            screenshot.ReadPixels(rect, 0, 0);
 
-        //get the unique filename
-        string filename = uniqueFilename((int)rect.width, (int)rect.height);
+            //reset active camera texture and render texture
+            camera.targetTexture = null;
+            RenderTexture.active = null;
 
-        //pull in the file header/data bytes for the specified image format
-        byte[] fileHeader = null;
-        byte[] fileData = null;
+            //get the unique filename
+            string filename = uniqueFilename((int)rect.width, (int)rect.height);
 
-        if (format == Format.PNG)
-            fileData = screenshot.EncodeToPNG();
+            //pull in the file header/data bytes for the specified image format
+            byte[] fileHeader = null;
+            byte[] fileData = null;
+            if (format == Format.Raw)
+                fileData = screenshot.GetRawTextureData();
+            else if (format == Format.PNG)
+                fileData = screenshot.EncodeToPNG();
+            else if (format == Format.JPG)
+                fileData = screenshot.EncodeToJPG();
+            else        //PPM
+            {
+                string headerStr = string.Format("P6\n{0} {1}\n225\n", rect.width, rect.height);
+                fileHeader = System.Text.Encoding.ASCII.GetBytes(headerStr);
+                fileData = screenshot.GetRawTextureData();
 
-        DownloadFile(fileData, fileData.Length, filename);
+            }
 
-        //unhide optiona gameobject if set
-        if (hideGameObject != null)
-        {
-            hideGameObject.SetActive(true);
+            DownloadFile(fileData, fileData.Length, filename);
+
+            //New thread to save the image to file
+           // new System.Threading.Thread(() =>
+           //{
+           //    //create file and write optional header with image bytes
+           //    var f = System.IO.File.Create(filename);
+           //    if (fileHeader != null)
+           //        f.Write(fileHeader, 0, fileHeader.Length);
+           //    f.Write(fileData, 0, fileData.Length);
+           //    f.Close();
+           //    Debug.Log(string.Format("Wrote screenshot {0} of size {1}", filename, fileData.Length));
+           //}).Start();
+
+
+            //unhide optiona gameobject if set
+            if (hideGameObject != null)
+            {
+                hideGameObject.SetActive(true);
+            }
+
+            //for cleanup things for multiple screen shots        if needed
+            if (optimizeForManyScreenshots == false)
+            {
+                Destroy(renderTexture);
+                renderTexture = null;
+                screenshot = null;
+            }
         }
     }
 }

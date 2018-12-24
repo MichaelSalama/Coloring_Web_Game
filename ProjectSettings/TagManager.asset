@@ -41,12 +41,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: FeshaBoy
-    uniqueID: 2029683529
+  - name: OvalBg
+    uniqueID: 3944559515
+    locked: 0
+  - name: Stars
+    uniqueID: 3639231703
+    locked: 0
+  - name: Clouds
+    uniqueID: 2886127105
+    locked: 0
+  - name: WhiteBg
+    uniqueID: 2833101099
     locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Arms
-    uniqueID: 533420279
     locked: 0
