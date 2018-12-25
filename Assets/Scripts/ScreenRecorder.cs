@@ -15,8 +15,8 @@ public class ScreenRecorder : MonoBehaviour
 
 
     //for 1080p
-    public int captureWidth = 1920;
-    public int captureHeight = 1080;
+    public int captureWidth = Screen.width;
+    public int captureHeight = Screen.height;
 
     //to hide game objects during screenshots
     public GameObject hideGameObject;
