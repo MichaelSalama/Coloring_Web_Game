@@ -8,7 +8,7 @@ public class IntroScreenHandlerScript : MonoBehaviour
     public Animator animator;
     public GameObject startButton;
     public GameObject socialGroup;
-
+    
     private void Start()
     {
         animator.SetBool("Scale", false);
