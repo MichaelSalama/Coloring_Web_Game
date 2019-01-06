@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: boyinlove
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d2d13d3d6be022c4395ffbfdf4fa8e89, type: 3}
+    - {fileID: 2800000, guid: fa55a932a1b722f40be0b73dcb943ce0, type: 3}
+    - {fileID: 2800000, guid: 6f233f993b84b0f4fa4a7f438afe9511, type: 3}
+    - {fileID: 2800000, guid: 2216d899d6696834c970846d3a6f1cf8, type: 3}
+    - {fileID: 2800000, guid: 4a8ef5e5df899f94094f6dfd5f2b010f, type: 3}
+    - {fileID: 2800000, guid: 187163e659617da4caa8477092ea110e, type: 3}
+    - {fileID: 2800000, guid: 61c33573546ac254e832bb2c7805cfeb, type: 3}
+    - {fileID: 2800000, guid: 28e55065268dbdc459c149214c537696, type: 3}
+    - {fileID: 2800000, guid: effd6576f6ad95e4485786001575485a, type: 3}
+    - {fileID: 2800000, guid: 1ad845c0d25382046a65a143b73dd0fc, type: 3}
+    - {fileID: 2800000, guid: 7e7ede78eeeb8d245b2b98b50000334f, type: 3}
+    - {fileID: 2800000, guid: 0b7630d1c26695d43a4d9bb9396fd572, type: 3}
+    - {fileID: 2800000, guid: 6238a3ff93764f740b9a32e8c96a028c, type: 3}
+    - {fileID: 2800000, guid: 7a2d568dcb120a044a152a8d0258d28d, type: 3}
+    - {fileID: 2800000, guid: e9202d673eb85c747af06a21e14be80e, type: 3}
+    - {fileID: 2800000, guid: deacf845c6c209b40b3d451aac45ce9a, type: 3}
+    - {fileID: 2800000, guid: 268a9e509828c034ab2038a0cf550146, type: 3}
+    - {fileID: 2800000, guid: 17ba73bc3c80379428859f60dedebd8c, type: 3}
+    - {fileID: 2800000, guid: 45cc35f67446cda4fab948ebe611ea37, type: 3}
+    - {fileID: 2800000, guid: f25745eed632ae64f9675f95f88ebf4c, type: 3}
+    - {fileID: 2800000, guid: 386ed2821cb45134b9b878e88f27413c, type: 3}
+    - {fileID: 2800000, guid: 43fd3bd418dc7f64b976ac20fd57ecf9, type: 3}
+    - {fileID: 2800000, guid: 8077e8232360a2241a34ba263b15d713, type: 3}
+    - {fileID: 2800000, guid: 9148c18decdf5d64589ab17b2235615a, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 268a9e509828c034ab2038a0cf550146, type: 3}
+  - {fileID: 21300000, guid: 1ad845c0d25382046a65a143b73dd0fc, type: 3}
+  - {fileID: 21300000, guid: 0b7630d1c26695d43a4d9bb9396fd572, type: 3}
+  - {fileID: 21300000, guid: fa55a932a1b722f40be0b73dcb943ce0, type: 3}
+  - {fileID: 21300000, guid: 386ed2821cb45134b9b878e88f27413c, type: 3}
+  - {fileID: 21300000, guid: 8077e8232360a2241a34ba263b15d713, type: 3}
+  - {fileID: 21300000, guid: 61c33573546ac254e832bb2c7805cfeb, type: 3}
+  - {fileID: 21300000, guid: 43fd3bd418dc7f64b976ac20fd57ecf9, type: 3}
+  - {fileID: 21300000, guid: deacf845c6c209b40b3d451aac45ce9a, type: 3}
+  - {fileID: 21300000, guid: 28e55065268dbdc459c149214c537696, type: 3}
+  - {fileID: 21300000, guid: 4a8ef5e5df899f94094f6dfd5f2b010f, type: 3}
+  - {fileID: 21300000, guid: effd6576f6ad95e4485786001575485a, type: 3}
+  - {fileID: 21300000, guid: 187163e659617da4caa8477092ea110e, type: 3}
+  - {fileID: 21300000, guid: 45cc35f67446cda4fab948ebe611ea37, type: 3}
+  - {fileID: 21300000, guid: e9202d673eb85c747af06a21e14be80e, type: 3}
+  - {fileID: 21300000, guid: 7e7ede78eeeb8d245b2b98b50000334f, type: 3}
+  - {fileID: 21300000, guid: 2216d899d6696834c970846d3a6f1cf8, type: 3}
+  - {fileID: 21300000, guid: 6f233f993b84b0f4fa4a7f438afe9511, type: 3}
+  - {fileID: 21300000, guid: 17ba73bc3c80379428859f60dedebd8c, type: 3}
+  - {fileID: 21300000, guid: d2d13d3d6be022c4395ffbfdf4fa8e89, type: 3}
+  - {fileID: 21300000, guid: 9148c18decdf5d64589ab17b2235615a, type: 3}
+  - {fileID: 21300000, guid: 7a2d568dcb120a044a152a8d0258d28d, type: 3}
+  - {fileID: 21300000, guid: f25745eed632ae64f9675f95f88ebf4c, type: 3}
+  - {fileID: 21300000, guid: 6238a3ff93764f740b9a32e8c96a028c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - EmptyStar_0000s_0016_legs
+  - EmptyStar_0000s_0009_Vector-Smart-Object
+  - EmptyStar_0000s_0011_arrows
+  - EmptyStar_0000s_0001_eyebrows
+  - EmptyStar_0000s_0020_neck
+  - EmptyStar_0000s_0022_hearts
+  - EmptyStar_0000s_0006_head
+  - "EmptyStar_0000s_0021_\u0627\u0644\u0634\u0648\u0633\u0645\u0648\u0647"
+  - EmptyStar_0000s_0015_socks
+  - EmptyStar_0000s_0007_hair
+  - EmptyStar_0000s_0004_eyes
+  - EmptyStar_0000s_0008_mouth
+  - EmptyStar_0000s_0005_ear
+  - EmptyStar_0000s_0018_arm
+  - EmptyStar_0000s_0014_shoes
+  - EmptyStar_0000s_0010_hand2
+  - EmptyStar_0000s_0003_eys2
+  - EmptyStar_0000s_0002_eyes3
+  - EmptyStar_0000s_0017_face
+  - EmptyStar_0000s_0000_flower
+  - EmptyStar_0000s_0023_heart
+  - EmptyStar_0000s_0013_body
+  - EmptyStar_0000s_0019_wings
+  - EmptyStar_0000s_0012_Vector-Smart-Object
+  m_Tag: boyinlove
+  m_IsVariant: 0

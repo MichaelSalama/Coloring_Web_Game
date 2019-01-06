@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: boycelebrating
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: aaa5e3324e97210468730984398c3536, type: 3}
+    - {fileID: 2800000, guid: f96bc80ff3bf7074092904a673f226f9, type: 3}
+    - {fileID: 2800000, guid: e2e361e97416a2c40b599ae4224405ae, type: 3}
+    - {fileID: 2800000, guid: 2227c18f74733b648803d688845f7084, type: 3}
+    - {fileID: 2800000, guid: aa527ffb18e2a134d99b91ea40882691, type: 3}
+    - {fileID: 2800000, guid: 8e61404578a400e43bfe8c1edc224c31, type: 3}
+    - {fileID: 2800000, guid: f469dc3b0715acd45b3a36f62d4a1eb9, type: 3}
+    - {fileID: 2800000, guid: 577c6b6ec8585f3479d2faaacd2c49bd, type: 3}
+    - {fileID: 2800000, guid: d18a5e1c67104534bbb79960a61b8265, type: 3}
+    - {fileID: 2800000, guid: 79875b4beed8659488a0d72b6620d2c6, type: 3}
+    - {fileID: 2800000, guid: 2bf6d19ddf346e64c972e5a916d7e184, type: 3}
+    - {fileID: 2800000, guid: 4d38f9bdf2c050f4683f4e953145eda4, type: 3}
+    - {fileID: 2800000, guid: c2c17d943272e764f9ab359553a9017a, type: 3}
+    - {fileID: 2800000, guid: 30a0f0f2446e7a240ab596a8cf283647, type: 3}
+    - {fileID: 2800000, guid: 8465949306d408d40aa12911383dce22, type: 3}
+    - {fileID: 2800000, guid: 231056a4b41851049a8de99575ee2ba0, type: 3}
+    - {fileID: 2800000, guid: 102274261c429744cab75c84ddc2e54a, type: 3}
+    - {fileID: 2800000, guid: 0e5fec64be6e3c8459324ad3b7e12d5b, type: 3}
+    - {fileID: 2800000, guid: 7414a93933456bf4baefebb09614df8d, type: 3}
+    - {fileID: 2800000, guid: 1541eed9661bb35428fa87fdca884c22, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: aaa5e3324e97210468730984398c3536, type: 3}
+  - {fileID: 21300000, guid: 30a0f0f2446e7a240ab596a8cf283647, type: 3}
+  - {fileID: 21300000, guid: 8465949306d408d40aa12911383dce22, type: 3}
+  - {fileID: 21300000, guid: 0e5fec64be6e3c8459324ad3b7e12d5b, type: 3}
+  - {fileID: 21300000, guid: c2c17d943272e764f9ab359553a9017a, type: 3}
+  - {fileID: 21300000, guid: 231056a4b41851049a8de99575ee2ba0, type: 3}
+  - {fileID: 21300000, guid: 8e61404578a400e43bfe8c1edc224c31, type: 3}
+  - {fileID: 21300000, guid: 102274261c429744cab75c84ddc2e54a, type: 3}
+  - {fileID: 21300000, guid: 7414a93933456bf4baefebb09614df8d, type: 3}
+  - {fileID: 21300000, guid: 1541eed9661bb35428fa87fdca884c22, type: 3}
+  - {fileID: 21300000, guid: e2e361e97416a2c40b599ae4224405ae, type: 3}
+  - {fileID: 21300000, guid: f469dc3b0715acd45b3a36f62d4a1eb9, type: 3}
+  - {fileID: 21300000, guid: 79875b4beed8659488a0d72b6620d2c6, type: 3}
+  - {fileID: 21300000, guid: aa527ffb18e2a134d99b91ea40882691, type: 3}
+  - {fileID: 21300000, guid: d18a5e1c67104534bbb79960a61b8265, type: 3}
+  - {fileID: 21300000, guid: 2bf6d19ddf346e64c972e5a916d7e184, type: 3}
+  - {fileID: 21300000, guid: 4d38f9bdf2c050f4683f4e953145eda4, type: 3}
+  - {fileID: 21300000, guid: 577c6b6ec8585f3479d2faaacd2c49bd, type: 3}
+  - {fileID: 21300000, guid: f96bc80ff3bf7074092904a673f226f9, type: 3}
+  - {fileID: 21300000, guid: 2227c18f74733b648803d688845f7084, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - EmptyStar_0000s_0000_mouth
+  - EmptyStar_0000s_0013_hair
+  - EmptyStar_0000s_0014_face
+  - EmptyStar_0000s_0017_hand2
+  - EmptyStar_0000s_0012_gloves
+  - EmptyStar_0000s_0015_sleeve
+  - EmptyStar_0000s_0005_scarf
+  - EmptyStar_0000s_0016_hand1
+  - EmptyStar_0000s_0018_neck
+  - "EmptyStar_0000s_0019_\u0627\u0644\u0634\u0648\u0633\u0645\u0648-\u0647\u0630\u0627"
+  - EmptyStar_0000s_0002_eyes2
+  - EmptyStar_0000s_0006_body
+  - EmptyStar_0000s_0009_socks
+  - EmptyStar_0000s_0004_head
+  - EmptyStar_0000s_0008_shoes
+  - EmptyStar_0000s_0010_legs
+  - EmptyStar_0000s_0011_zomara
+  - EmptyStar_0000s_0007_sleeve2
+  - EmptyStar_0000s_0001_eyebrows
+  - EmptyStar_0000s_0003_eyes
+  m_Tag: boycelebrating
+  m_IsVariant: 0

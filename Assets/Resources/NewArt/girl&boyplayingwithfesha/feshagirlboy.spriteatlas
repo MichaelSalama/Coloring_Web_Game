@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: feshagirlboy
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8240fd168308d734e9cd4040e1668def, type: 3}
+    - {fileID: 2800000, guid: 6d16161f58559614095c4fce06a0e73a, type: 3}
+    - {fileID: 2800000, guid: 01beb3acc944b5940a613acd9aa2dc94, type: 3}
+    - {fileID: 2800000, guid: 6f95fd13ae0df5943ba8dfb0afb344e4, type: 3}
+    - {fileID: 2800000, guid: cf3a8b3795cda7042b09bb08d210afe4, type: 3}
+    - {fileID: 2800000, guid: 56a3bbaaeb2e4b74cbc872163aac7368, type: 3}
+    - {fileID: 2800000, guid: 7b24a068b3a3dea488e7d5c6efd71fe9, type: 3}
+    - {fileID: 2800000, guid: 5cf4b548df9045a45bba91ea4c26a57f, type: 3}
+    - {fileID: 2800000, guid: 2bb9e386396495e45b95424548fbc675, type: 3}
+    - {fileID: 2800000, guid: 27eb7d49897b6f645aab94e2a77fee43, type: 3}
+    - {fileID: 2800000, guid: 09a61383ff46f9742846c8180ee98ef0, type: 3}
+    - {fileID: 2800000, guid: b51aed4177e2e644eb897a71d879452e, type: 3}
+    - {fileID: 2800000, guid: 5eeec4e9b74e4ae49bcdfb144b9bb6f2, type: 3}
+    - {fileID: 2800000, guid: 9d5f769058305c24c9039b8f8cf8b2b0, type: 3}
+    - {fileID: 2800000, guid: dc197584daa3f714c941ef57c7f6d786, type: 3}
+    - {fileID: 2800000, guid: 5af0a02c501406448a5d630bee5e10c5, type: 3}
+    - {fileID: 2800000, guid: 1a26c692cca2f514e8754dceb28f7a9a, type: 3}
+    - {fileID: 2800000, guid: 15bb58d621c46e543ac40ecbe9b899b9, type: 3}
+    - {fileID: 2800000, guid: 4d257c8f2b1154c458400c394a1ecd51, type: 3}
+    - {fileID: 2800000, guid: 6101dcb9b5fdf164ebf67d726a6c7469, type: 3}
+    - {fileID: 2800000, guid: 24ee1820a9bf7434d83d56342dd9654a, type: 3}
+    - {fileID: 2800000, guid: 2dd6dada56ad0a8439e3a1a5a688c1e8, type: 3}
+    - {fileID: 2800000, guid: dc216f0cae184da4bbb7690d04c84e9f, type: 3}
+    - {fileID: 2800000, guid: afd18549cf73422439b0cb29190bd04c, type: 3}
+    - {fileID: 2800000, guid: 9cc16e16a470f7945b96c6f45001f1bd, type: 3}
+    - {fileID: 2800000, guid: 0d95cb9001873b24a9ee8221a71252ee, type: 3}
+    - {fileID: 2800000, guid: 5c8506cf675ccbd40a78cb6011e53105, type: 3}
+    - {fileID: 2800000, guid: 0f8ce9a8e932ff94ea582d574f593e27, type: 3}
+    - {fileID: 2800000, guid: f7c9f3ca26b7f574984d973a3a2af87d, type: 3}
+    - {fileID: 2800000, guid: c5f049b3da6c34346830d8a09c832abf, type: 3}
+    - {fileID: 2800000, guid: ce6757d65e739ca40a4f93cb97fab339, type: 3}
+    - {fileID: 2800000, guid: cba64ad8291847e49b3592b7f2fa030d, type: 3}
+    - {fileID: 2800000, guid: a190cc3d511738549a5a27e46bbe9172, type: 3}
+    - {fileID: 2800000, guid: eec38b7397123c84594e0b83dfc632c4, type: 3}
+    - {fileID: 2800000, guid: e653cc9003745544ca381962af1c00cd, type: 3}
+    - {fileID: 2800000, guid: 18b88c9b8bfedee479772c14c6f921a5, type: 3}
+    - {fileID: 2800000, guid: 47950c8ccd30ea445b1819ff6db5a60c, type: 3}
+    - {fileID: 2800000, guid: 36421fc64d261794cb50f00fb47285f7, type: 3}
+    - {fileID: 2800000, guid: 2b6cf09582a89974eb69cd8b8590a4c0, type: 3}
+    - {fileID: 2800000, guid: 6e6b1cf3a27d554489fbf802cce9dbb3, type: 3}
+    - {fileID: 2800000, guid: 49f639c96bab74141ad368c82232953c, type: 3}
+    - {fileID: 2800000, guid: c76b7467fb2b47f40bb70cc9c2230a2c, type: 3}
+    - {fileID: 2800000, guid: 811a960cf75676f439a184e1062f9950, type: 3}
+    - {fileID: 2800000, guid: 891889a1a3687a6488253ed833d042bf, type: 3}
+    - {fileID: 2800000, guid: 1d23557550051c6449dda894aff8a9f8, type: 3}
+    - {fileID: 2800000, guid: c12b8b4f66b69b6458e60db3d43f68b6, type: 3}
+    - {fileID: 2800000, guid: d7058433ec695564d8e928f72f91546a, type: 3}
+    - {fileID: 2800000, guid: c82e00d3dd473784ca86c5b6fb08d11b, type: 3}
+    - {fileID: 2800000, guid: 8a208b9c310579f4a849ee73b9ed64bb, type: 3}
+    - {fileID: 2800000, guid: df0012341499b7347ac4d6775892e0da, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 24ee1820a9bf7434d83d56342dd9654a, type: 3}
+  - {fileID: 21300000, guid: 9d5f769058305c24c9039b8f8cf8b2b0, type: 3}
+  - {fileID: 21300000, guid: 0d95cb9001873b24a9ee8221a71252ee, type: 3}
+  - {fileID: 21300000, guid: e653cc9003745544ca381962af1c00cd, type: 3}
+  - {fileID: 21300000, guid: b51aed4177e2e644eb897a71d879452e, type: 3}
+  - {fileID: 21300000, guid: 891889a1a3687a6488253ed833d042bf, type: 3}
+  - {fileID: 21300000, guid: 1a26c692cca2f514e8754dceb28f7a9a, type: 3}
+  - {fileID: 21300000, guid: 6f95fd13ae0df5943ba8dfb0afb344e4, type: 3}
+  - {fileID: 21300000, guid: d7058433ec695564d8e928f72f91546a, type: 3}
+  - {fileID: 21300000, guid: eec38b7397123c84594e0b83dfc632c4, type: 3}
+  - {fileID: 21300000, guid: 09a61383ff46f9742846c8180ee98ef0, type: 3}
+  - {fileID: 21300000, guid: c5f049b3da6c34346830d8a09c832abf, type: 3}
+  - {fileID: 21300000, guid: c82e00d3dd473784ca86c5b6fb08d11b, type: 3}
+  - {fileID: 21300000, guid: 6e6b1cf3a27d554489fbf802cce9dbb3, type: 3}
+  - {fileID: 21300000, guid: df0012341499b7347ac4d6775892e0da, type: 3}
+  - {fileID: 21300000, guid: dc197584daa3f714c941ef57c7f6d786, type: 3}
+  - {fileID: 21300000, guid: 1d23557550051c6449dda894aff8a9f8, type: 3}
+  - {fileID: 21300000, guid: 2b6cf09582a89974eb69cd8b8590a4c0, type: 3}
+  - {fileID: 21300000, guid: 8240fd168308d734e9cd4040e1668def, type: 3}
+  - {fileID: 21300000, guid: 9cc16e16a470f7945b96c6f45001f1bd, type: 3}
+  - {fileID: 21300000, guid: 2bb9e386396495e45b95424548fbc675, type: 3}
+  - {fileID: 21300000, guid: 36421fc64d261794cb50f00fb47285f7, type: 3}
+  - {fileID: 21300000, guid: ce6757d65e739ca40a4f93cb97fab339, type: 3}
+  - {fileID: 21300000, guid: 15bb58d621c46e543ac40ecbe9b899b9, type: 3}
+  - {fileID: 21300000, guid: cf3a8b3795cda7042b09bb08d210afe4, type: 3}
+  - {fileID: 21300000, guid: c76b7467fb2b47f40bb70cc9c2230a2c, type: 3}
+  - {fileID: 21300000, guid: 5cf4b548df9045a45bba91ea4c26a57f, type: 3}
+  - {fileID: 21300000, guid: 7b24a068b3a3dea488e7d5c6efd71fe9, type: 3}
+  - {fileID: 21300000, guid: 0f8ce9a8e932ff94ea582d574f593e27, type: 3}
+  - {fileID: 21300000, guid: cba64ad8291847e49b3592b7f2fa030d, type: 3}
+  - {fileID: 21300000, guid: afd18549cf73422439b0cb29190bd04c, type: 3}
+  - {fileID: 21300000, guid: 27eb7d49897b6f645aab94e2a77fee43, type: 3}
+  - {fileID: 21300000, guid: 6101dcb9b5fdf164ebf67d726a6c7469, type: 3}
+  - {fileID: 21300000, guid: 49f639c96bab74141ad368c82232953c, type: 3}
+  - {fileID: 21300000, guid: 5eeec4e9b74e4ae49bcdfb144b9bb6f2, type: 3}
+  - {fileID: 21300000, guid: 56a3bbaaeb2e4b74cbc872163aac7368, type: 3}
+  - {fileID: 21300000, guid: f7c9f3ca26b7f574984d973a3a2af87d, type: 3}
+  - {fileID: 21300000, guid: 2dd6dada56ad0a8439e3a1a5a688c1e8, type: 3}
+  - {fileID: 21300000, guid: 18b88c9b8bfedee479772c14c6f921a5, type: 3}
+  - {fileID: 21300000, guid: 811a960cf75676f439a184e1062f9950, type: 3}
+  - {fileID: 21300000, guid: dc216f0cae184da4bbb7690d04c84e9f, type: 3}
+  - {fileID: 21300000, guid: 5af0a02c501406448a5d630bee5e10c5, type: 3}
+  - {fileID: 21300000, guid: 47950c8ccd30ea445b1819ff6db5a60c, type: 3}
+  - {fileID: 21300000, guid: 8a208b9c310579f4a849ee73b9ed64bb, type: 3}
+  - {fileID: 21300000, guid: 01beb3acc944b5940a613acd9aa2dc94, type: 3}
+  - {fileID: 21300000, guid: a190cc3d511738549a5a27e46bbe9172, type: 3}
+  - {fileID: 21300000, guid: 6d16161f58559614095c4fce06a0e73a, type: 3}
+  - {fileID: 21300000, guid: c12b8b4f66b69b6458e60db3d43f68b6, type: 3}
+  - {fileID: 21300000, guid: 4d257c8f2b1154c458400c394a1ecd51, type: 3}
+  - {fileID: 21300000, guid: 5c8506cf675ccbd40a78cb6011e53105, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - EmptyStar_0000s_0000s_0020_boy_shoes
+  - EmptyStar_0000s_0000s_0013_fesha1
+  - EmptyStar_0000s_0001s_0003_glasses
+  - EmptyStar_0000s_0001s_0012_toka
+  - EmptyStar_0000s_0000s_0011_boy_sleeve1
+  - EmptyStar_0000s_0001s_0021_Vector-Smart-Object
+  - EmptyStar_0000s_0000s_0016_boy_sleeve2
+  - EmptyStar_0000s_0000s_0003_boy_eyes
+  - EmptyStar_0000s_0001s_0024_girl_shoe
+  - EmptyStar_0000s_0001s_0011_bag1
+  - EmptyStar_0000s_0000s_0010_Vector-Smart-Object
+  - EmptyStar_0000s_0001s_0007_girl_face
+  - EmptyStar_0000s_0001s_0025_girl_socks
+  - EmptyStar_0000s_0001s_0017_Vector-Smart-Object
+  - EmptyStar_0000s_0001s_0027_girl_neck
+  - EmptyStar_0000s_0000s_0014_boy_body
+  - EmptyStar_0000s_0001s_0022_girl_sleeve
+  - EmptyStar_0000s_0001s_0016_Vector-Smart-Object
+  - EmptyStar_0000s_0000s_0000_boy_mouth
+  - EmptyStar_0000s_0001s_0002_girl_eyes2
+  - EmptyStar_0000s_0000s_0008_Vector-Smart-Object
+  - EmptyStar_0000s_0001s_0015_collar
+  - EmptyStar_0000s_0001s_0008_girl_ears
+  - EmptyStar_0000s_0000s_0017_boy_hand
+  - EmptyStar_0000s_0000s_0004_boy_head
+  - EmptyStar_0000s_0001s_0019_feesha
+  - EmptyStar_0000s_0000s_0007_boy_face
+  - EmptyStar_0000s_0000s_0006_boy_hair
+  - EmptyStar_0000s_0001s_0005_tooka
+  - EmptyStar_0000s_0001s_0009_tie
+  - EmptyStar_0000s_0001s_0001_girl_eyes
+  - EmptyStar_0000s_0000s_0009_boy_hand1
+  - "EmptyStar_0000s_0000s_0019_\u0627\u0644\u0634\u0648\u0633\u0645\u0648"
+  - EmptyStar_0000s_0001s_0018_top
+  - EmptyStar_0000s_0000s_0012_Vector-Smart-Object
+  - EmptyStar_0000s_0000s_0005_boy_ear
+  - EmptyStar_0000s_0001s_0006_girl_hair
+  - EmptyStar_0000s_0000s_0021_boy_socks
+  - EmptyStar_0000s_0001s_0013_girl_hair2
+  - EmptyStar_0000s_0001s_0020_girl_arm2
+  - EmptyStar_0000s_0001s_0000_girl_mouth
+  - EmptyStar_0000s_0000s_0015_boy_neck
+  - EmptyStar_0000s_0001s_0014_bag2
+  - EmptyStar_0000s_0001s_0026_girl_legs
+  - EmptyStar_0000s_0000s_0002_boy_eyebrows
+  - EmptyStar_0000s_0001s_0010_girl_arm
+  - EmptyStar_0000s_0000s_0001_boy_eyes2
+  - EmptyStar_0000s_0001s_0023_girl_skirt
+  - EmptyStar_0000s_0000s_0018_Vector-Smart-Object
+  - EmptyStar_0000s_0001s_0004_girl_eyebrows
+  m_Tag: feshagirlboy
+  m_IsVariant: 0

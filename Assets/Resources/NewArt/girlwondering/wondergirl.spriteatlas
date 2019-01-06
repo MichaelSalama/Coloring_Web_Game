@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: wondergirl
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: eac16675d9f850e4e9c56d16d2f26142, type: 3}
+    - {fileID: 2800000, guid: 2004efccfba2a7643b0855b95f01482d, type: 3}
+    - {fileID: 2800000, guid: 418572b1c4b2dd243bd1ca0358dd641f, type: 3}
+    - {fileID: 2800000, guid: b271906f788e65c40a56f7c72ed0ab40, type: 3}
+    - {fileID: 2800000, guid: 540a8cd7f0a593c43b64d91be3264aea, type: 3}
+    - {fileID: 2800000, guid: 258dfe15ddde7274ba39f7318c53b5e2, type: 3}
+    - {fileID: 2800000, guid: 30335c6dfd859da4f9a0114b67daab88, type: 3}
+    - {fileID: 2800000, guid: 348332a91388c924c85e20984cbb2630, type: 3}
+    - {fileID: 2800000, guid: 031facda72873aa489a886431e393980, type: 3}
+    - {fileID: 2800000, guid: 1c4f755d05f79c84cbb6143d3a9a0e19, type: 3}
+    - {fileID: 2800000, guid: 06d77ca0652f4644a94d78a20e8179f0, type: 3}
+    - {fileID: 2800000, guid: ea3d7961bd85afd4cad4900aa2b30128, type: 3}
+    - {fileID: 2800000, guid: 012ecdd1762ca3247a6c17a3d5fc5cad, type: 3}
+    - {fileID: 2800000, guid: 52d05ba253388fd418780ce0baa30f21, type: 3}
+    - {fileID: 2800000, guid: 43bffbea60cec0c449ed50a11af0db7d, type: 3}
+    - {fileID: 2800000, guid: bba16eee51effb14784af7e8e81e2eae, type: 3}
+    - {fileID: 2800000, guid: 594dbbfaa0b4c3e4ba6b085f3168f11e, type: 3}
+    - {fileID: 2800000, guid: eed01a7c2212bd64da86a1d1259d1fea, type: 3}
+    - {fileID: 2800000, guid: 43bdbe4be37718c43bc1cc8615992a16, type: 3}
+    - {fileID: 2800000, guid: 416350eab0756db48805e8446d6fb940, type: 3}
+    - {fileID: 2800000, guid: dab6fec947de3fa46beeb93b53cc0708, type: 3}
+    - {fileID: 2800000, guid: 579d33a30d34fa74e9e43396e76b772f, type: 3}
+    - {fileID: 2800000, guid: 37ca7e1b57375824f9cae1348bfa0a90, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 06d77ca0652f4644a94d78a20e8179f0, type: 3}
+  - {fileID: 21300000, guid: ea3d7961bd85afd4cad4900aa2b30128, type: 3}
+  - {fileID: 21300000, guid: 418572b1c4b2dd243bd1ca0358dd641f, type: 3}
+  - {fileID: 21300000, guid: 012ecdd1762ca3247a6c17a3d5fc5cad, type: 3}
+  - {fileID: 21300000, guid: 52d05ba253388fd418780ce0baa30f21, type: 3}
+  - {fileID: 21300000, guid: 579d33a30d34fa74e9e43396e76b772f, type: 3}
+  - {fileID: 21300000, guid: 258dfe15ddde7274ba39f7318c53b5e2, type: 3}
+  - {fileID: 21300000, guid: eac16675d9f850e4e9c56d16d2f26142, type: 3}
+  - {fileID: 21300000, guid: 540a8cd7f0a593c43b64d91be3264aea, type: 3}
+  - {fileID: 21300000, guid: 348332a91388c924c85e20984cbb2630, type: 3}
+  - {fileID: 21300000, guid: dab6fec947de3fa46beeb93b53cc0708, type: 3}
+  - {fileID: 21300000, guid: 031facda72873aa489a886431e393980, type: 3}
+  - {fileID: 21300000, guid: 416350eab0756db48805e8446d6fb940, type: 3}
+  - {fileID: 21300000, guid: 43bffbea60cec0c449ed50a11af0db7d, type: 3}
+  - {fileID: 21300000, guid: 594dbbfaa0b4c3e4ba6b085f3168f11e, type: 3}
+  - {fileID: 21300000, guid: 37ca7e1b57375824f9cae1348bfa0a90, type: 3}
+  - {fileID: 21300000, guid: 43bdbe4be37718c43bc1cc8615992a16, type: 3}
+  - {fileID: 21300000, guid: eed01a7c2212bd64da86a1d1259d1fea, type: 3}
+  - {fileID: 21300000, guid: 2004efccfba2a7643b0855b95f01482d, type: 3}
+  - {fileID: 21300000, guid: 1c4f755d05f79c84cbb6143d3a9a0e19, type: 3}
+  - {fileID: 21300000, guid: 30335c6dfd859da4f9a0114b67daab88, type: 3}
+  - {fileID: 21300000, guid: bba16eee51effb14784af7e8e81e2eae, type: 3}
+  - {fileID: 21300000, guid: b271906f788e65c40a56f7c72ed0ab40, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - EmptyStar_0000s_0010_ponytail
+  - EmptyStar_0000s_0011_packbag
+  - EmptyStar_0000s_0002_glasses
+  - EmptyStar_0000s_0012_tie
+  - EmptyStar_0000s_0013_body
+  - EmptyStar_0000s_0021_Vector-Smart-Object
+  - EmptyStar_0000s_0005_eyebrows
+  - EmptyStar_0000s_0000_mouth
+  - EmptyStar_0000s_0004_eyes2
+  - EmptyStar_0000s_0007_hair
+  - EmptyStar_0000s_0020_packbag2
+  - EmptyStar_0000s_0008_face
+  - EmptyStar_0000s_0019_legs
+  - EmptyStar_0000s_0014_arm2
+  - EmptyStar_0000s_0016_skirt
+  - EmptyStar_0000s_0022_neck
+  - EmptyStar_0000s_0018_socks
+  - EmptyStar_0000s_0017_shoes
+  - EmptyStar_0000s_0001___
+  - EmptyStar_0000s_0009_toka
+  - EmptyStar_0000s_0006_toka
+  - EmptyStar_0000s_0015_arm1
+  - EmptyStar_0000s_0003_eyes
+  m_Tag: wondergirl
+  m_IsVariant: 0

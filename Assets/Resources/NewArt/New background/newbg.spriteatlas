@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: newbg
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f73aee89ab6f3eb4d911ee2f4073eb2f, type: 3}
+    - {fileID: 2800000, guid: 700935bf18414d24eb234d1976154fc9, type: 3}
+    - {fileID: 2800000, guid: 48e1ee3e69a268e4591dc797bb644eab, type: 3}
+    - {fileID: 2800000, guid: ae51558ffc9a659499c1e1c830a39ed8, type: 3}
+    - {fileID: 2800000, guid: f6c0feb1b6f045f45a5d7a751d104ecc, type: 3}
+    - {fileID: 2800000, guid: b55b6332719a2434aa55cbad4aeac107, type: 3}
+    - {fileID: 2800000, guid: b27d911c24d9ef54599fdfe08810e916, type: 3}
+    - {fileID: 2800000, guid: bc060c67f015847459a2e1537a21b6fe, type: 3}
+    - {fileID: 2800000, guid: 3caf00981a79c374b8b205f88a31c5b8, type: 3}
+    - {fileID: 2800000, guid: 7f5851b04b04f3349aafc029f0de5037, type: 3}
+    - {fileID: 2800000, guid: 880255b7b4436a74db8049eb82f8b7ee, type: 3}
+    - {fileID: 2800000, guid: 56e91558fd620144288049cf00c9a737, type: 3}
+    - {fileID: 2800000, guid: 77cb9b4ebb3dfc34bb75af4adc5a7547, type: 3}
+    - {fileID: 2800000, guid: 27c8a20492dd60a4db8a566f7dc256cd, type: 3}
+    - {fileID: 2800000, guid: 68bc3c50e40ed78419cdfaf44b6b60ea, type: 3}
+    - {fileID: 2800000, guid: 5f2009e062b6cd74799329765662c9a3, type: 3}
+    - {fileID: 2800000, guid: 9255943742a2db14ab62d32c56201a22, type: 3}
+    - {fileID: 2800000, guid: d416c806c8cc384458029e172769d56d, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 68bc3c50e40ed78419cdfaf44b6b60ea, type: 3}
+  - {fileID: 21300000, guid: 7f5851b04b04f3349aafc029f0de5037, type: 3}
+  - {fileID: 21300000, guid: 5f2009e062b6cd74799329765662c9a3, type: 3}
+  - {fileID: 21300000, guid: f6c0feb1b6f045f45a5d7a751d104ecc, type: 3}
+  - {fileID: 21300000, guid: b55b6332719a2434aa55cbad4aeac107, type: 3}
+  - {fileID: 21300000, guid: 27c8a20492dd60a4db8a566f7dc256cd, type: 3}
+  - {fileID: 21300000, guid: d416c806c8cc384458029e172769d56d, type: 3}
+  - {fileID: 21300000, guid: 9255943742a2db14ab62d32c56201a22, type: 3}
+  - {fileID: 21300000, guid: bc060c67f015847459a2e1537a21b6fe, type: 3}
+  - {fileID: 21300000, guid: 880255b7b4436a74db8049eb82f8b7ee, type: 3}
+  - {fileID: 21300000, guid: 56e91558fd620144288049cf00c9a737, type: 3}
+  - {fileID: 21300000, guid: 3caf00981a79c374b8b205f88a31c5b8, type: 3}
+  - {fileID: 21300000, guid: f73aee89ab6f3eb4d911ee2f4073eb2f, type: 3}
+  - {fileID: 21300000, guid: b27d911c24d9ef54599fdfe08810e916, type: 3}
+  - {fileID: 21300000, guid: 48e1ee3e69a268e4591dc797bb644eab, type: 3}
+  - {fileID: 21300000, guid: 77cb9b4ebb3dfc34bb75af4adc5a7547, type: 3}
+  - {fileID: 21300000, guid: ae51558ffc9a659499c1e1c830a39ed8, type: 3}
+  - {fileID: 21300000, guid: 700935bf18414d24eb234d1976154fc9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - EmptyStar_0000s_0013_cloud3
+  - EmptyStar_0000s_0008_star4
+  - EmptyStar_0000s_0014_cloud2
+  - EmptyStar_0000s_0003_moon
+  - EmptyStar_0000s_0004_moon
+  - EmptyStar_0000s_0012_cloud4
+  - EmptyStar_0001_Layer-0
+  - EmptyStar_0000s_0015_cloud
+  - EmptyStar_0000s_0006_star7
+  - EmptyStar_0000s_0009_star3
+  - EmptyStar_0000s_0010_star2
+  - EmptyStar_0000s_0007_star5
+  - EmptyStar_0000_Layer-26-copy
+  - EmptyStar_0000s_0005_star6
+  - EmptyStar_0000s_0001_star8
+  - EmptyStar_0000s_0011_star
+  - EmptyStar_0000s_0002_star7
+  - EmptyStar_0000s_0000_star9
+  m_Tag: newbg
+  m_IsVariant: 0

@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: girlflag
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 043dbd82e66332f4192ade0b9ab77ba8, type: 3}
+    - {fileID: 2800000, guid: 95b02f47967cffc46ba213e03a17c3cf, type: 3}
+    - {fileID: 2800000, guid: 8dc63779717ad6949affadec19392602, type: 3}
+    - {fileID: 2800000, guid: 4ff9e8fc1fe293842bc4c02248cdc3c8, type: 3}
+    - {fileID: 2800000, guid: e5eadba8df673eb44b4fc530753a9199, type: 3}
+    - {fileID: 2800000, guid: f5699798043252e468491370b85c77cf, type: 3}
+    - {fileID: 2800000, guid: 5c91d7c4b792f394aa5bc98867e4d639, type: 3}
+    - {fileID: 2800000, guid: f980ad7adde64ed45ad440544ddbfec1, type: 3}
+    - {fileID: 2800000, guid: 73073531ff9ad8447927a49092dce68c, type: 3}
+    - {fileID: 2800000, guid: 276da068cb32177429e6fbebdf8a9cd6, type: 3}
+    - {fileID: 2800000, guid: ee34bd750d1584241a59cd96c812a99c, type: 3}
+    - {fileID: 2800000, guid: 79f31272153aa5e4b9f0de6a471663bd, type: 3}
+    - {fileID: 2800000, guid: d2c4d0cea9168ea4fa67587bf5174990, type: 3}
+    - {fileID: 2800000, guid: 4aeba27cdc3c5c646923757b5966af04, type: 3}
+    - {fileID: 2800000, guid: 666c52b3fa8b4bf4bb2a942e8a392210, type: 3}
+    - {fileID: 2800000, guid: 39610289e8fe07b44b5bf1a13ae8d68d, type: 3}
+    - {fileID: 2800000, guid: 937c6554b26d0d149993cbab8d26a6a6, type: 3}
+    - {fileID: 2800000, guid: 124cc0d609ccea943aa32099716c6908, type: 3}
+    - {fileID: 2800000, guid: 2790b5704b1f95749a04c9eefa9d45ea, type: 3}
+    - {fileID: 2800000, guid: 983e2b7a1bc98cf49ac019d1314ab370, type: 3}
+    - {fileID: 2800000, guid: 619d4db597ffd2740aef62e629b6fde6, type: 3}
+    - {fileID: 2800000, guid: 6e9a39ee1521d1144923469b8a3c060e, type: 3}
+    - {fileID: 2800000, guid: 88efb8149e893b84ca1d542db961d860, type: 3}
+    - {fileID: 2800000, guid: bebd57f593c7c2d40862526db7d47da2, type: 3}
+    - {fileID: 2800000, guid: ac603e97d55242c4aa655fc255e01ba8, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2790b5704b1f95749a04c9eefa9d45ea, type: 3}
+  - {fileID: 21300000, guid: 73073531ff9ad8447927a49092dce68c, type: 3}
+  - {fileID: 21300000, guid: 79f31272153aa5e4b9f0de6a471663bd, type: 3}
+  - {fileID: 21300000, guid: 043dbd82e66332f4192ade0b9ab77ba8, type: 3}
+  - {fileID: 21300000, guid: 666c52b3fa8b4bf4bb2a942e8a392210, type: 3}
+  - {fileID: 21300000, guid: 88efb8149e893b84ca1d542db961d860, type: 3}
+  - {fileID: 21300000, guid: 937c6554b26d0d149993cbab8d26a6a6, type: 3}
+  - {fileID: 21300000, guid: 5c91d7c4b792f394aa5bc98867e4d639, type: 3}
+  - {fileID: 21300000, guid: ee34bd750d1584241a59cd96c812a99c, type: 3}
+  - {fileID: 21300000, guid: 619d4db597ffd2740aef62e629b6fde6, type: 3}
+  - {fileID: 21300000, guid: bebd57f593c7c2d40862526db7d47da2, type: 3}
+  - {fileID: 21300000, guid: 124cc0d609ccea943aa32099716c6908, type: 3}
+  - {fileID: 21300000, guid: 95b02f47967cffc46ba213e03a17c3cf, type: 3}
+  - {fileID: 21300000, guid: ac603e97d55242c4aa655fc255e01ba8, type: 3}
+  - {fileID: 21300000, guid: 276da068cb32177429e6fbebdf8a9cd6, type: 3}
+  - {fileID: 21300000, guid: f5699798043252e468491370b85c77cf, type: 3}
+  - {fileID: 21300000, guid: e5eadba8df673eb44b4fc530753a9199, type: 3}
+  - {fileID: 21300000, guid: 8dc63779717ad6949affadec19392602, type: 3}
+  - {fileID: 21300000, guid: 39610289e8fe07b44b5bf1a13ae8d68d, type: 3}
+  - {fileID: 21300000, guid: 983e2b7a1bc98cf49ac019d1314ab370, type: 3}
+  - {fileID: 21300000, guid: f980ad7adde64ed45ad440544ddbfec1, type: 3}
+  - {fileID: 21300000, guid: 4aeba27cdc3c5c646923757b5966af04, type: 3}
+  - {fileID: 21300000, guid: 4ff9e8fc1fe293842bc4c02248cdc3c8, type: 3}
+  - {fileID: 21300000, guid: d2c4d0cea9168ea4fa67587bf5174990, type: 3}
+  - {fileID: 21300000, guid: 6e9a39ee1521d1144923469b8a3c060e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - EmptyStar_0000s_0018_socks
+  - EmptyStar_0000s_0008_toka
+  - EmptyStar_0000s_0011_face
+  - EmptyStar_0000s_0000_buttons
+  - EmptyStar_0000s_0014_hair
+  - EmptyStar_0000s_0022_flag
+  - EmptyStar_0000s_0016_body
+  - EmptyStar_0000s_0006_collar
+  - EmptyStar_0000s_0010_hair2
+  - EmptyStar_0000s_0020_arm
+  - EmptyStar_0000s_0023_hand
+  - EmptyStar_0000s_0017_shoes
+  - EmptyStar_0000s_0001_jewels
+  - EmptyStar_0000s_0024_Vector-Smart-Object
+  - EmptyStar_0000s_0009_eyebrows
+  - EmptyStar_0000s_0005_eyes1
+  - EmptyStar_0000s_0004_eyes
+  - EmptyStar_0000s_0002_glasses
+  - EmptyStar_0000s_0015_Vector-Smart-Object
+  - EmptyStar_0000s_0019_legs
+  - EmptyStar_0000s_0007_neck
+  - EmptyStar_0000s_0013_toka
+  - EmptyStar_0000s_0003_mouthh
+  - EmptyStar_0000s_0012_Vector-Smart-Object
+  - EmptyStar_0000s_0021_Vector-Smart-Object
+  m_Tag: girlflag
+  m_IsVariant: 0
