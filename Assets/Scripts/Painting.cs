@@ -18,9 +18,17 @@ public class Painting : MonoBehaviour
 
     [SerializeField]
     ColorVariable pickedColor;
+    public ColorVariable PickedColor
+    {
+        set
+        {
+            pickedColor = value;
+        }
+    }
 
     private void OnEnable()
     {
+        children = new List<SpriteRenderer>();
         for (int i = 0; i < transform.childCount; i++)
         {
             children.Add(transform.GetChild(i).GetComponent<SpriteRenderer>());
@@ -37,9 +45,10 @@ public class Painting : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
+            
             if (hit && hit.transform.tag == "Picture")
             {
-
+               
                 if (hit.transform.gameObject.GetComponent<SpriteRenderer>().color != pickedColor.value)
                 {
                     ReverseGroup rg;

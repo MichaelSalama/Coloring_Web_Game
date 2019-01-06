@@ -5,21 +5,25 @@ using UnityEngine;
 public class NewImagePicker : MonoBehaviour
 {
 
-    public IntVariable sketchNumber;
-    public List<GameObject> sketchPrefabs;
+    //public IntVariable sketchNumber;
+    //public List<GameObject> sketchPrefabs;
+    public ObjectVariable sketchPrefab;
     [SerializeField]
     ColorVariable color;
+    
     Painting currentSketch;
 
     Vector3 pos = new Vector3(7, 0, -0.1f);
 
     public void ShowSketch()
     {
-        GameObject currentSketchObj = Instantiate(sketchPrefabs[sketchNumber.value], pos, Quaternion.identity);
-        currentSketch = currentSketchObj.GetComponent<Painting>();
+        GameObject currentSketchObj = Instantiate(sketchPrefab.value, pos, Quaternion.identity);
+        currentSketchObj.transform.localScale = Vector3.one;
+        if (currentSketchObj.GetComponent<Painting>())
+            Destroy(currentSketchObj.GetComponent<Painting>());
+        currentSketch = currentSketchObj.AddComponent<Painting>();
+        currentSketch.PickedColor = color;
         currentSketchObj.transform.SetParent(this.transform);
-        
-
     }
 
     public void HideSketch()
