@@ -239,8 +239,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sketchNumber: {fileID: 11400000, guid: 54804147b2c7180438239ca3b313c6f9, type: 2}
   sketchPrefabs:
-  - {fileID: 1095441540328558, guid: 29ed9226e3003fb418717a89f5401fb6, type: 2}
-  - {fileID: 1786100305693006, guid: 0eea8154376bda3478e92104e1f2195c, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 1892636940262738, guid: 06cfa4a81cfd5b74cbef74909fa872f3, type: 2}
   - {fileID: 1065410732106682, guid: ebe858ba85570ed4fb983cf3ea0dde1a, type: 2}
   - {fileID: 1963653349316284, guid: bc0a45d4ee0b46248ace34546b1fff1c, type: 2}
@@ -250,7 +250,7 @@ MonoBehaviour:
   - {fileID: 1296556004777210, guid: cc04cd20dbe6ae244b6321be025fbdc3, type: 2}
   - {fileID: 1174323682486768, guid: be18436a68d7f9e4cb26b52e25e88584, type: 2}
   - {fileID: 1013421484756904, guid: 0b4e372c225333f4f87707a82cb082bf, type: 2}
-  - {fileID: 1780534696929450, guid: b13f824864688b64aa10e4c1c3b40852, type: 2}
+  - {fileID: 0}
   - {fileID: 1185817241684498, guid: c9e4d881122b7064ca30ede896a04f97, type: 2}
   color: {fileID: 11400000, guid: b5c540faedd03b94896419cb2f3c1896, type: 2}
 --- !u!114 &335206139

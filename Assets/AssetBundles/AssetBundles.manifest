@@ -1,10 +1,7 @@
 ManifestFileVersion: 0
-CRC: 1579284088
+CRC: 3645635372
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: fb.sprite
-      Dependencies: {}
-    Info_1:
-      Name: wondergirl.txt
+      Name: robboygirl.txt
       Dependencies: {}

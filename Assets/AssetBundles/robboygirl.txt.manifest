@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 3744863014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7aadb7e2d1acbde1ad4266fd306376a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e541789bc427ec57c2466afad29ffb5a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d4bb2b53570e984c9132eddd240435e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6a6b5bc3ef50654f8596212b23264e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0020_boy_shoes.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0013_fesha1.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0003_glasses.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0012_toka.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0011_boy_sleeve1.png
+- Assets/Resources/NewArt/CharctersAndScriptable/RobBoyGirl.prefab
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0021_Vector-Smart-Object.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0016_boy_sleeve2.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0003_boy_eyes.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0024_girl_shoe.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0011_bag1.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0010_Vector-Smart-Object.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0007_girl_face.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0025_girl_socks.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0017_Vector-Smart-Object.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0027_girl_neck.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0014_boy_body.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0022_girl_sleeve.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0016_Vector-Smart-Object.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0000_boy_mouth.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0002_girl_eyes2.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0008_Vector-Smart-Object.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0015_collar.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0008_girl_ears.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0017_boy_hand.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0004_boy_head.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0019_feesha.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0007_boy_face.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0006_boy_hair.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0005_tooka.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0009_tie.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0001_girl_eyes.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0009_boy_hand1.png
+- "Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0019_\u0627\u0644\u0634\u0648\u0633\u0645\u0648.png"
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0018_top.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0012_Vector-Smart-Object.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0005_boy_ear.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0006_girl_hair.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0021_boy_socks.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0013_girl_hair2.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0020_girl_arm2.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0000_girl_mouth.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0015_boy_neck.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0014_bag2.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0026_girl_legs.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0002_boy_eyebrows.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0010_girl_arm.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/feshagirlboy.spriteatlas
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0001_boy_eyes2.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0023_girl_skirt.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0018_Vector-Smart-Object.png
+- Assets/Resources/NewArt/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0004_girl_eyebrows.png
+Dependencies: []

@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 970242778
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7cf21f49f00ee6f4eb286c9f2eb9419
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e541789bc427ec57c2466afad29ffb5a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d4bb2b53570e984c9132eddd240435e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6a6b5bc3ef50654f8596212b23264e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0009_packbag.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0000_glasses.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0018_packbag2.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0017_arm2.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0013_shoes.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0014_socks.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0012_skirt.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0016_arm1.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0010_tie.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0006_face.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0004_toka.png
+- Assets/Resources/NewArt/CharctersAndScriptable/GirlSayingHi.prefab
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0001_eyes.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0008_ponytail.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0019_Vector-Smart-Object.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0003_eyebrows.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0015_legs.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0020_neck.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0007_toka.png
+- Assets/Resources/NewArt/GirlsayingHi/girlsayhi.spriteatlas
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0011_body.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0002_eyes2.png
+- Assets/Resources/NewArt/GirlsayingHi/EmptyStar_0000s_0005_hair.png
+Dependencies: []

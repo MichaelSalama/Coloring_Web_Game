@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2989404302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc54564bc4cd319491c79cfdfb94c1db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e541789bc427ec57c2466afad29ffb5a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d4bb2b53570e984c9132eddd240435e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6a6b5bc3ef50654f8596212b23264e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0005_ear.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0012_neck.png
+- Assets/Resources/NewArt/boywearingsaudiknife/knifeboy.spriteatlas
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0014_legs.png
+- Assets/Resources/NewArt/CharctersAndScriptable/KnifeBoy.prefab
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0017_sword.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0013_shoes.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0010_dagger.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0009_belt.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0018_hand1.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0000_mouth.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0003_eyebrows.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0011_body.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0007_face.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0020_meh.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0006_hair.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0008_buttons.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0015_sleeves.png
+- "Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0016_\u0627\u0644\u0634\u0648\u0633\u0645\u0648-\u0647\u0630\u0627.png"
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0004_head.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0002_eyes.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0019_hand2.png
+- Assets/Resources/NewArt/boywearingsaudiknife/EmptyStar_0000s_0001_eyeesinside.png
+Dependencies: []
