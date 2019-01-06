@@ -253,6 +253,32 @@ MonoBehaviour:
   - {fileID: 1780534696929450, guid: b13f824864688b64aa10e4c1c3b40852, type: 2}
   - {fileID: 1185817241684498, guid: c9e4d881122b7064ca30ede896a04f97, type: 2}
   color: {fileID: 11400000, guid: b5c540faedd03b94896419cb2f3c1896, type: 2}
+--- !u!114 &335206139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 335206137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e57308fd2ce3e2d4fa0baede91c37225, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sketchNumber: {fileID: 11400000, guid: 54804147b2c7180438239ca3b313c6f9, type: 2}
+  assetBundleNames:
+  - BalonGuy
+  - LaptopGuy
+  - BoyHoldingFLag
+  - GirlInLove
+  - GirlSayingHi
+  - Lover
+  - BoyCeleberating
+  - KnifeBoy
+  - GirlFlag
+  - GirlHappy
+  - SingingGirl
+  - WonderGirl
+  - RobBoyGirl
 --- !u!1001 &345731836
 Prefab:
   m_ObjectHideFlags: 0
