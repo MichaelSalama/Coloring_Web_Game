@@ -40,12 +40,12 @@ public class Painting : MonoBehaviour
     private void Update()
     {
 
-        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-        RaycastHit2D hit = Physics2D.Raycast(ray.origin, ray.direction, Mathf.Infinity);
-
+        
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
-            
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            RaycastHit2D hit = Physics2D.Raycast(ray.origin, ray.direction, Mathf.Infinity);
+
             if (hit && hit.transform.tag == "Picture")
             {
                
