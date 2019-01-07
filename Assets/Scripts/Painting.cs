@@ -76,6 +76,7 @@ public class Painting : MonoBehaviour
 
     public void Hide()
     {
+        
         Destroy(this.gameObject);
     }
 

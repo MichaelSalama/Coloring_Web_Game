@@ -29,7 +29,8 @@ public class NewImagePicker : MonoBehaviour
     public void HideSketch()
     {
         //sketchPrefabs[sketchNumber.value].value = transform.GetChild(0).gameObject;
-        transform.GetChild(0).GetComponent<Painting>().Hide();
+        if(transform.childCount>0)
+            transform.GetChild(0).GetComponent<Painting>().Hide();
     }
 
     public void Whity()
