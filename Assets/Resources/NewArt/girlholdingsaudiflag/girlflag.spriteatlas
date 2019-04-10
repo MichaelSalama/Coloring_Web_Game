@@ -4,7 +4,8 @@
 SpriteAtlas:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: girlflag
   m_EditorData:
     serializedVersion: 2
@@ -65,6 +66,7 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 88efb8149e893b84ca1d542db961d860, type: 3}
     - {fileID: 2800000, guid: bebd57f593c7c2d40862526db7d47da2, type: 3}
     - {fileID: 2800000, guid: ac603e97d55242c4aa655fc255e01ba8, type: 3}
+    totalSpriteSurfaceArea: 51635575
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:

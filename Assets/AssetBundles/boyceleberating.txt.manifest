@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 3039350267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff5b664b3044e0a2c4acb04a2b60231f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cd5dc8013754e73a73735befa0c09aa1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d4bb2b53570e984c9132eddd240435e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6a6b5bc3ef50654f8596212b23264e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Final Art/boycelebarating/sing_0000s_0015_leg2-copy-3.png
+- Assets/Resources/Final Art/boycelebarating/sing_0000s_0016_leg1-copy-3.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0013_hair.png
+- Assets/Resources/Final Art/boycelebarating/sing_0000s_0005_eyecircle2-copy.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0014_face.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0017_hand2.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0012_gloves.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0015_sleeve.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0005_scarf.png
+- Assets/Resources/Final Art/boycelebarating/sing_0000s_0003_eye2-copy-2.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0016_hand1.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0018_neck.png
+- Assets/Resources/Prefabs/DrawingPrefabs/BoyCeleberating.prefab
+- "Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0019_\u0627\u0644\u0634\u0648\u0633\u0645\u0648-\u0647\u0630\u0627.png"
+- Assets/Resources/Final Art/boycelebarating/sing_0000s_0002_eye1-copy-2.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0006_body.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0009_socks.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0004_head.png
+- Assets/Resources/Final Art/boycelebarating/sing_0000s_0000_teeth-copy.png
+- Assets/Resources/Final Art/boycelebarating/sing_0000s_0004_eyecircle1-copy.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0011_zomara.png
+- Assets/Resources/Final Art/boycelebarating/sing_0000s_0014_shoes1-copy-3.png
+- Assets/Resources/Final Art/boycelebarating/sing_0000s_0006_shoes2-copy-3.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0007_sleeve2.png
+- Assets/Resources/Final Art/boycelebarating/EmptyStar_0000s_0001_eyebrows.png
+- Assets/Resources/Final Art/boycelebarating/sing_0000s_0001_mouth-copy.png
+Dependencies: []

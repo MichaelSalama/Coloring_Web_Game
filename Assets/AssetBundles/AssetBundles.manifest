@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3246749057
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: balonguy.txt
+      Dependencies:
+        Dependency_0: girlsayinghi.txt
+    Info_1:
+      Name: boyceleberating.txt
+      Dependencies: {}
+    Info_2:
+      Name: boyholdingflag.txt
+      Dependencies: {}
+    Info_3:
+      Name: girlflag.txt
+      Dependencies: {}
+    Info_4:
+      Name: girlhappy.txt
+      Dependencies: {}
+    Info_5:
+      Name: girlinlove.txt
+      Dependencies: {}
+    Info_6:
+      Name: girlsayinghi.txt
+      Dependencies:
+        Dependency_0: balonguy.txt
+    Info_7:
+      Name: knifeboy.txt
+      Dependencies: {}
+    Info_8:
+      Name: laptopguy.txt
+      Dependencies: {}
+    Info_9:
+      Name: lover.txt
+      Dependencies: {}
+    Info_10:
+      Name: robboygirl.txt
+      Dependencies: {}
+    Info_11:
+      Name: singinggirl.txt
+      Dependencies: {}
+    Info_12:
+      Name: wondergirl.txt
+      Dependencies: {}

@@ -4,7 +4,8 @@
 SpriteAtlas:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: wondergirl
   m_EditorData:
     serializedVersion: 2
@@ -63,6 +64,7 @@ SpriteAtlas:
     - {fileID: 2800000, guid: dab6fec947de3fa46beeb93b53cc0708, type: 3}
     - {fileID: 2800000, guid: 579d33a30d34fa74e9e43396e76b772f, type: 3}
     - {fileID: 2800000, guid: 37ca7e1b57375824f9cae1348bfa0a90, type: 3}
+    totalSpriteSurfaceArea: 47504729
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:

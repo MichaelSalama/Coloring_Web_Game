@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 1677949472
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c715f3288178e9533aa3d91190878816
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cd5dc8013754e73a73735befa0c09aa1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d4bb2b53570e984c9132eddd240435e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6a6b5bc3ef50654f8596212b23264e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0005_head.png
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0003_eye1.png
+- "Assets/Resources/Final Art/boyholdingflag/sing_0000s_0024_\u0627\u0644\u0634\u0648-\u0633\u0645\u0648-\u0647\u0630\u0627.png"
+- Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0004_eyebrows.png
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0017_shoes1.png
+- Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0006_Vector-Smart-Object.png
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0010_ear.png
+- Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0016_hand-2.png
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0005_eyecircle1.png
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0011_face.png
+- Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0010_body.png
+- Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0012_neck.png
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0023_Layer-5.png
+- Assets/Resources/Final Art/boyholdingflag/Buttons_0000s_0010_Layer-4.png
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0018_shoes2.png
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0006_eyecircle2.png
+- Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0000_ear-copy.png
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0020_leg1.png
+- Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0015_sleeve2.png
+- Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0009_sleeve1.png
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0000_ear-copy.png
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0004_eye2.png
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0002_mouth.png
+- Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0008_hand-2.png
+- Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0011_flag.png
+- Assets/Resources/Prefabs/DrawingPrefabs/BoyHoldingFLag.prefab
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0001_teeth.png
+Dependencies: []

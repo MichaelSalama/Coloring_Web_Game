@@ -4,7 +4,8 @@
 SpriteAtlas:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: newbg
   m_EditorData:
     serializedVersion: 2
@@ -58,6 +59,7 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 5f2009e062b6cd74799329765662c9a3, type: 3}
     - {fileID: 2800000, guid: 9255943742a2db14ab62d32c56201a22, type: 3}
     - {fileID: 2800000, guid: d416c806c8cc384458029e172769d56d, type: 3}
+    totalSpriteSurfaceArea: 0
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:

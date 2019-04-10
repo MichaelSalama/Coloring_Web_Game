@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 2691075218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb3f36a1a9537d0ffacd7e6c31b9ed2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cd5dc8013754e73a73735befa0c09aa1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d4bb2b53570e984c9132eddd240435e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6a6b5bc3ef50654f8596212b23264e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0003_eyec2-copy-2.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0010_socks2-copy-3.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0003s_0000_Layer-68.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0000_eye1-copy-3.png
+- Assets/Resources/Final Art/GirlsayingHi/EmptyStar_0000s_0018_packbag2.png
+- Assets/Resources/Final Art/GirlsayingHi/EmptyStar_0000s_0017_arm2.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0003s_0001_Layer-67.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0001_eye2-copy-3.png
+- Assets/Resources/Prefabs/DrawingPrefabs/GirlSayingHi.prefab
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0000s_0001_Layer-37.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0011_leg1-copy-5.png
+- Assets/Resources/Final Art/GirlsayingHi/EmptyStar_0000s_0012_skirt.png
+- Assets/Resources/Final Art/GirlsayingHi/EmptyStar_0000s_0016_arm1.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0003s_0003_Layer-65.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0013_socks2-copy-2.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0009_Layer-60-copy-2.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0000s_0000_Layer-37-copy.png
+- Assets/Resources/Final Art/GirlsayingHi/EmptyStar_0000s_0019_Vector-Smart-Object.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0002s_0001_toka-copy-2.png
+- Assets/Resources/Final Art/GirlsayingHi/EmptyStar_0000s_0003_eyebrows.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0002s_0002_hair.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0000s_0002_Layer-38.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0002_eyec1-copy-2.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0001s_0002_Layer-42.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0003s_0002_Layer-66.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0014_leg1-copy-4.png
+- Assets/Resources/Final Art/GirlsayingHi/EmptyStar_0000s_0020_neck.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0007_bag2.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0002s_0000_Layer-48.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0001s_0000_Layer-41.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0001s_0001_Layer-40.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0001s_0003_Layer-39.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0006_bag1.png
+Dependencies:
+- D:/Engineer/FL/Ana Saudi/Coloring_Web_Game/Assets/AssetBundles/balonguy.txt

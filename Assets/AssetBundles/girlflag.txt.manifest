@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 3118214591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9295057af0145455807b8fbe8d40f206
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cd5dc8013754e73a73735befa0c09aa1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d4bb2b53570e984c9132eddd240435e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6a6b5bc3ef50654f8596212b23264e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0003_eyec2-copy.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0008_toka.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0002s_0003_Layer-39.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0004s_0005_Layer-54.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0014_shoes2.png
+- Assets/Resources/Prefabs/DrawingPrefabs/GirlFlag.prefab
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0011_face.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0000_buttons.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0018_leg1.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0004s_0006_Vector-Smart-Object.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0022_flag.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0016_body.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0006_collar.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0004s_0002_Layer-51.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0015_Layer-60.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0020_arm.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0003s_0001_hair.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0002s_0002_Layer-42.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0000s_0001_Layer-37.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0023_hand.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0016_socks2.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0001s_0003_Layer-55.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0001s_0001_Layer-57.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0024_Vector-Smart-Object.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0006_tongue.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0002_eyec1-copy.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0004s_0001_Layer-50.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0009_eyebrows.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0002s_0001_Layer-40.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0000s_0000_Layer-37-copy.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0004s_0003_Layer-52.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0002s_0000_Layer-41.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0001s_0000_Layer-56.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0007_neck.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0000_eye1-copy.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0004s_0004_Layer-53.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0003s_0000_Layer-48.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0013_toka.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0017_socks1.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0001_eye2-copy.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0005_teeth.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0001s_0002_Layer-58.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0004s_0000_Layer-49.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0012_Vector-Smart-Object.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0021_Vector-Smart-Object.png
+- Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0000s_0002_Layer-38.png
+Dependencies: []

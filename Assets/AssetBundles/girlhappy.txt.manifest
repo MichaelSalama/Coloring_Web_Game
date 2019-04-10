@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 1332011662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5208d28860b8ddf912b6d2b77fd02b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cd5dc8013754e73a73735befa0c09aa1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d4bb2b53570e984c9132eddd240435e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6a6b5bc3ef50654f8596212b23264e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0000_Layer-60-copy-6.png
+- Assets/Resources/Prefabs/DrawingPrefabs/GirlHappy.prefab
+- Assets/Resources/Final Art/Girlwelcoming/EmptyStar_0000s_0018_arm1.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0002s_0002_ponytail.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0014_Layer-83.png
+- Assets/Resources/Final Art/Girlwelcoming/EmptyStar_0000s_0010_neck.png
+- Assets/Resources/Final Art/Girlwelcoming/EmptyStar_0000s_0009_tie.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0011_socks2.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0005_Ellipse-1-copy.png
+- Assets/Resources/Final Art/Girlwelcoming/EmptyStar_0000s_0014_skirt.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0001s_0001_Layer-40.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0000s_0002_Layer-38.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0015_Layer-82.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0003_teeth.png
+- Assets/Resources/Final Art/Girlwelcoming/headears_0000s_0007_Layer-3.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0007_eyes.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0001s_0003_Layer-39.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0010_socks1.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0002s_0000_toka-copy.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0000s_0000_Layer-37-copy.png
+- Assets/Resources/Final Art/Girlwelcoming/EmptyStar_0000s_0017_sleeve2.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0001s_0000_Layer-41.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0006_Ellipse-1.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0002s_0001_Layer-43.png
+- Assets/Resources/Final Art/Girlwelcoming/EmptyStar_0000s_0019_arm2.png
+- Assets/Resources/Final Art/Girlwelcoming/headears_0000s_0006_ear1.png
+- Assets/Resources/Final Art/Girlwelcoming/EmptyStar_0000s_0016_sleeve1.png
+- Assets/Resources/Final Art/Girlwelcoming/EmptyStar_0000s_0002_toka.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0004_tongue.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0001_Layer-60-copy-5.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0000s_0001_Layer-37.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0001s_0002_Layer-42.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0017_leg1.png
+- Assets/Resources/Final Art/Girlwelcoming/EmptyStar_0000s_0000_eyeebrows.png
+- Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0018_leg2.png
+Dependencies: []

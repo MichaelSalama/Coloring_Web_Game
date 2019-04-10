@@ -4,7 +4,8 @@
 SpriteAtlas:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: boyonlaptop
   m_EditorData:
     serializedVersion: 2
@@ -58,6 +59,7 @@ SpriteAtlas:
     - {fileID: 2800000, guid: 4c1b5c7fc5e9d9643906b8b9943bab69, type: 3}
     - {fileID: 2800000, guid: fbe94bc1b7bb27e4cbd6bc189c055094, type: 3}
     - {fileID: 2800000, guid: 03a50c5f59f35324da074e3cfb74c244, type: 3}
+    totalSpriteSurfaceArea: 37177614
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:

@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 3631855117
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f04538dd627ded1991a99de84d485d28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cd5dc8013754e73a73735befa0c09aa1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d4bb2b53570e984c9132eddd240435e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6a6b5bc3ef50654f8596212b23264e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0002_teeth.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0000_glasses.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0000s_0001_cap1.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0000s_0004_cap4.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0007_hand2.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0001_eye1-copy-5.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0011_Layer-39-copy.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0017_shoes1-copy-7.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000_eye1-copy-6.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0002_eyec1-copy-4.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0015_neck.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0006_face.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0004_toka.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0001_eyes.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0003_eyec2-copy-4.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0014_face.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0018_so1-copy-2.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0003_eyebrows.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0000s_0002_cap2.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0000_eye1-copy-7.png
+- "Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0016_\u0627\u0644\u0634\u0648\u0633\u0645\u0648-\u0647\u0630\u0627.png"
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0000s_0003_cap3.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0013_hair.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0009_Layer-40-copy.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0006_Layer-38-copy.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0008_body.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0006_hand1.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0008_Layer-41-copy.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0012_ear.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0005_sleeve2.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0000s_0000_ballon.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0004_Layer-37-copy-3.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0004_eyec1.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0020_so1-copy.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0004_sleeve1.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0003_mouth.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0001_eye2-copy-5.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0005_Layer-37-copy-2.png
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0011_head.png
+- Assets/Resources/Prefabs/DrawingPrefabs/BalonGuy.prefab
+- Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0002_eyes2.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0005_eyec2.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0010_Layer-42-copy.png
+- Assets/Resources/Final Art/boyholdingballon/sing_0000s_0019_shoes1-copy-6.png
+Dependencies:
+- D:/Engineer/FL/Ana Saudi/Coloring_Web_Game/Assets/AssetBundles/girlsayinghi.txt
