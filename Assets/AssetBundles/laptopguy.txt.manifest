@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1199718454
+CRC: 3647156573
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6434edf885cf15a734a592d13eacf41e
+    Hash: efadfa5a591b0e1444c68e3479ebc8c2
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -38,7 +38,6 @@ Assets:
 - Assets/Resources/Final Art/boyonlaptob/sing_0000s_0010_tongue.png
 - Assets/Resources/Final Art/boyonlaptob/EmptyStar_0000s_0011_pocket.png
 - Assets/Resources/Final Art/boyonlaptob/sing_0000s_0012_Layer-3.png
-- Assets/Resources/Final Art/boyonlaptob/EmptyStar_0000s_0008_face.png
 - Assets/Resources/Final Art/boyonlaptob/EmptyStar_0000s_0004_head.png
 - Assets/Resources/Final Art/boyonlaptob/sing_0000s_0019_leg2.png
 - Assets/Resources/Final Art/boyonlaptob/EmptyStar_0000s_0003_Vector-Smart-Object.png

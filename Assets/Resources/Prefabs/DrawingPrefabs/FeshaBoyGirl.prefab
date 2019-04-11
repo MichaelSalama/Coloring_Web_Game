@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 701033496636245527}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0001_tongue
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -127,7 +127,7 @@ GameObject:
   - component: {fileID: 3901690810917548429}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0014_girl_hair2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -251,7 +251,7 @@ GameObject:
   - component: {fileID: 3165077299580108430}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0002_eye1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -368,7 +368,7 @@ GameObject:
   - component: {fileID: 1176138901944107386}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0000s_0002_Layer-569
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -526,7 +526,7 @@ GameObject:
   - component: {fileID: 5383999598578659124}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0000s_0000_toka1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -643,7 +643,7 @@ GameObject:
   - component: {fileID: 6162921319364441812}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0024_so1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -760,7 +760,7 @@ GameObject:
   - component: {fileID: 3133363549691976823}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0030_so1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -874,7 +874,7 @@ GameObject:
   - component: {fileID: 3448348310608238220}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0000s_0003_Layer-568
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1010,7 +1010,7 @@ GameObject:
   - component: {fileID: 9195831600829467477}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0028_leg1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1131,7 +1131,7 @@ GameObject:
   - component: {fileID: 604510493830540446}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0003_eye1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1255,7 +1255,7 @@ GameObject:
   - component: {fileID: 221122014543605608}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0000_teeth
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1371,7 +1371,7 @@ GameObject:
   - component: {fileID: 2834214952453239788}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0026_shoes2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1489,7 +1489,7 @@ GameObject:
   - component: {fileID: 1883547477431151419}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0001_mouth
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1602,7 +1602,7 @@ GameObject:
   - component: {fileID: 7200542079369769316}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0000s_0001_toka2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1719,7 +1719,7 @@ GameObject:
   - component: {fileID: 3786068935476823385}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0006_eyec1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1839,7 +1839,7 @@ GameObject:
   - component: {fileID: 146890923868415882}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0016_shoes1-copy-5
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1962,7 +1962,7 @@ GameObject:
   - component: {fileID: 6717198071016283619}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0025_shoes1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2084,7 +2084,7 @@ GameObject:
   - component: {fileID: 6242644522298228593}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0017_shoes1-copy-4
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2204,7 +2204,7 @@ GameObject:
   - component: {fileID: 4573573830895179155}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0025_so2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2325,7 +2325,7 @@ GameObject:
   - component: {fileID: 2414004907658680181}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0000_teeth
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2441,7 +2441,7 @@ GameObject:
   - component: {fileID: 7671630949926714648}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0029_leg2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2555,7 +2555,7 @@ GameObject:
   - component: {fileID: 2410924765324062131}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0000s_0004_Layer-568
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2746,7 +2746,7 @@ GameObject:
   - component: {fileID: 7398981313896066646}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0005_eyec2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2870,7 +2870,7 @@ GameObject:
   - component: {fileID: 2620387638243712312}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0003_eye2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2986,7 +2986,7 @@ GameObject:
   - component: {fileID: 5567886368696378571}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0002_eye2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3850,7 +3850,7 @@ GameObject:
   - component: {fileID: 7649074624054484748}
   m_Layer: 0
   m_Name: rob_0000s_0000s_0012_fesha1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4311,6 +4311,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7549571937680950250}
   - component: {fileID: 7647421835614118240}
+  - component: {fileID: 6723892989157684776}
   m_Layer: 0
   m_Name: EmptyStar_0000s_0000s_0006_boy_hair
   m_TagString: Picture
@@ -4380,6 +4381,108 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &6723892989157684776
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7552845034195812310}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 27.93, y: 13.780001}
+    newSize: {x: 27.93, y: 13.780001}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -8.404436, y: 2.5513468}
+      - {x: -8.349862, y: 2.6332083}
+      - {x: -8.295288, y: 2.9333665}
+      - {x: -8.268001, y: 3.2198815}
+      - {x: -8.308931, y: 3.4381785}
+      - {x: -8.37715, y: 3.7246933}
+      - {x: -8.41808, y: 3.9429905}
+      - {x: -8.076991, y: 4.052139}
+      - {x: -7.790476, y: 4.188575}
+      - {x: -7.6131096, y: 4.3113666}
+      - {x: -7.3675256, y: 4.5433073}
+      - {x: -7.2720203, y: 4.5433073}
+      - {x: -7.258377, y: 4.365941}
+      - {x: -7.2310896, y: 4.338654}
+      - {x: -7.162872, y: 4.365941}
+      - {x: -6.8217826, y: 4.7070303}
+      - {x: -6.8081393, y: 4.7343173}
+      - {x: -6.8217826, y: 4.7070303}
+      - {x: -6.84907, y: 4.597882}
+      - {x: -7.067367, y: 4.243149}
+      - {x: -7.0810103, y: 4.202218}
+      - {x: -7.067367, y: 4.1612873}
+      - {x: -6.9582186, y: 4.174931}
+      - {x: -6.8081393, y: 4.243149}
+      - {x: -6.535268, y: 4.365941}
+      - {x: -6.3306146, y: 4.5023766}
+      - {x: -6.1532483, y: 4.6660995}
+      - {x: -6.003169, y: 4.870753}
+      - {x: -5.9213076, y: 5.061763}
+      - {x: -5.7985153, y: 4.9526143}
+      - {x: -5.675723, y: 4.870753}
+      - {x: -5.3892083, y: 4.747961}
+      - {x: -5.2664165, y: 4.7343173}
+      - {x: -5.184555, y: 4.747961}
+      - {x: -4.9799013, y: 4.3250103}
+      - {x: -4.843466, y: 4.0657825}
+      - {x: -4.7070303, y: 3.8201983}
+      - {x: -4.638812, y: 3.7519805}
+      - {x: -4.597882, y: 3.765624}
+      - {x: -4.597882, y: 3.956634}
+      - {x: -4.638812, y: 4.188575}
+      - {x: -4.6933866, y: 4.611525}
+      - {x: -4.829822, y: 5.034476}
+      - {x: -4.9389706, y: 5.457426}
+      - {x: -4.9799013, y: 5.498357}
+      - {x: -5.307347, y: 5.443783}
+      - {x: -5.593862, y: 5.457426}
+      - {x: -5.7439413, y: 5.525644}
+      - {x: -5.9485946, y: 5.621149}
+      - {x: -6.1396046, y: 5.648436}
+      - {x: -6.535268, y: 5.648436}
+      - {x: -6.753565, y: 5.621149}
+      - {x: -7.162872, y: 5.498357}
+      - {x: -7.7086143, y: 5.28006}
+      - {x: -8.240714, y: 5.1163373}
+      - {x: -8.499942, y: 5.020832}
+      - {x: -8.800099, y: 4.843466}
+      - {x: -9.072971, y: 4.597882}
+      - {x: -9.182119, y: 4.393228}
+      - {x: -9.209407, y: 4.052139}
+      - {x: -9.209407, y: 3.3972478}
+      - {x: -9.182119, y: 3.13802}
+      - {x: -9.141189, y: 2.824218}
+      - {x: -9.032041, y: 2.4694853}
+      - {x: -8.854674, y: 2.1556833}
+      - {x: -8.650021, y: 1.9646734}
+      - {x: -8.445367, y: 1.8555249}
+      - {x: -8.404436, y: 1.8418814}
+      - {x: -8.37715, y: 1.9237428}
+      - {x: -8.41808, y: 2.0601785}
+      - {x: -8.308931, y: 1.9373863}
+      - {x: -7.940555, y: 1.7463764}
+      - {x: -7.8314066, y: 1.7190893}
+      - {x: -7.4084563, y: 1.7190893}
+      - {x: -7.381169, y: 1.8009506}
+      - {x: -7.7768326, y: 2.1283963}
+      - {x: -8.104278, y: 2.3057625}
 --- !u!1 &7552850766457510818
 GameObject:
   m_ObjectHideFlags: 0
@@ -4774,7 +4877,7 @@ GameObject:
   - component: {fileID: 7649141454911978344}
   m_Layer: 0
   m_Name: rob_0000s_0001s_0019_feesha
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6062,6 +6165,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7555807562829363018}
   - component: {fileID: 7647478332197274366}
+  - component: {fileID: 127205538902631112}
   m_Layer: 0
   m_Name: EmptyStar_0000s_0000s_0002_boy_eyebrows
   m_TagString: Picture
@@ -6131,6 +6235,52 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &127205538902631112
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7553088918837962392}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 27.93, y: 13.780001}
+    newSize: {x: 27.93, y: 13.780001}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -7.190159, y: 4.2295055}
+      - {x: -7.285664, y: 4.270436}
+      - {x: -7.544892, y: 4.270436}
+      - {x: -7.940555, y: 4.0930696}
+      - {x: -8.172496, y: 3.7792675}
+      - {x: -8.172496, y: 3.6019013}
+      - {x: -8.117922, y: 3.5336835}
+      - {x: -7.8996243, y: 3.5336835}
+      - {x: -7.340238, y: 3.738337}
+      - {x: -7.1765156, y: 3.9020598}
+      - {x: -7.1765156, y: 4.1612873}
+    - - {x: -5.1163373, y: 4.5705943}
+      - {x: -5.3892083, y: 4.638812}
+      - {x: -5.9895253, y: 4.638812}
+      - {x: -6.030456, y: 4.5296636}
+      - {x: -6.030456, y: 4.3250103}
+      - {x: -5.8940206, y: 4.174931}
+      - {x: -5.1709113, y: 4.174931}
+      - {x: -5.08905, y: 4.188575}
+      - {x: -5.034476, y: 4.2295055}
+      - {x: -5.034476, y: 4.406872}
 --- !u!1 &7553402956971288828
 GameObject:
   m_ObjectHideFlags: 0
@@ -7903,7 +8053,7 @@ GameObject:
   - component: {fileID: 7539172192050706641}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0013_Layer-570
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8045,7 +8195,7 @@ GameObject:
   - component: {fileID: 5020790381858223672}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0031_so2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

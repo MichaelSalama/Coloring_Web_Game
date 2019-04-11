@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 506785963160742339}
   m_Layer: 0
   m_Name: sing_0000s_0024_leg2-copy-2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 7181324692035622761}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0001_Layer-77
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -275,7 +275,7 @@ GameObject:
   - component: {fileID: 3270772218825898221}
   m_Layer: 0
   m_Name: sing_0000s_0025_leg1-copy-2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -388,7 +388,7 @@ GameObject:
   - component: {fileID: 6045427802466669952}
   m_Layer: 0
   m_Name: sing_0000s_0012_dager1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -519,7 +519,7 @@ GameObject:
   - component: {fileID: 1370896291189957707}
   m_Layer: 0
   m_Name: sing_0000s_0001_tongue
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1116,6 +1116,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2468782957296515076}
   - component: {fileID: 2351341783957052772}
+  - component: {fileID: 8364861106215551622}
   m_Layer: 0
   m_Name: EmptyStar_0000s_0006_hair
   m_TagString: Picture
@@ -1185,6 +1186,119 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &8364861106215551622
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2473935208284764834}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 27.93, y: 13.780001}
+    newSize: {x: 27.93, y: 13.780001}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 4.6933866, y: 1.9373863}
+      - {x: 4.7616043, y: 1.9919605}
+      - {x: 4.843466, y: 2.1283963}
+      - {x: 4.9253273, y: 2.319406}
+      - {x: 4.966258, y: 2.4421983}
+      - {x: 5.007189, y: 2.5922775}
+      - {x: 5.034476, y: 2.796931}
+      - {x: 5.034476, y: 3.042515}
+      - {x: 4.993545, y: 3.4654655}
+      - {x: 5.2937036, y: 3.4654655}
+      - {x: 5.5529313, y: 3.4927528}
+      - {x: 5.7848716, y: 3.547327}
+      - {x: 5.907664, y: 3.5882578}
+      - {x: 6.1668916, y: 3.7110498}
+      - {x: 6.344258, y: 3.833842}
+      - {x: 6.480694, y: 3.8201983}
+      - {x: 6.412476, y: 3.5882578}
+      - {x: 6.4261193, y: 3.547327}
+      - {x: 6.5761986, y: 3.5882578}
+      - {x: 6.84907, y: 3.7519805}
+      - {x: 6.930931, y: 3.8065548}
+      - {x: 6.712634, y: 3.52004}
+      - {x: 6.5761986, y: 3.3836043}
+      - {x: 6.5898423, y: 3.3426735}
+      - {x: 6.7944956, y: 3.3426735}
+      - {x: 6.9991493, y: 3.356317}
+      - {x: 7.353882, y: 3.451822}
+      - {x: 7.6403966, y: 3.6019013}
+      - {x: 7.7768326, y: 3.6974063}
+      - {x: 7.981486, y: 3.9020598}
+      - {x: 8.090634, y: 3.9702775}
+      - {x: 8.37715, y: 3.6837628}
+      - {x: 8.513585, y: 3.5746143}
+      - {x: 8.718239, y: 3.4791093}
+      - {x: 8.813744, y: 3.4108913}
+      - {x: 8.84103, y: 3.2744558}
+      - {x: 8.881961, y: 3.0834458}
+      - {x: 8.922892, y: 2.824218}
+      - {x: 9.059327, y: 2.3603368}
+      - {x: 9.100258, y: 2.2648318}
+      - {x: 9.127545, y: 2.2648318}
+      - {x: 9.168476, y: 2.319406}
+      - {x: 9.195764, y: 2.5377033}
+      - {x: 9.209407, y: 2.7423568}
+      - {x: 9.209407, y: 4.1067133}
+      - {x: 9.195764, y: 4.202218}
+      - {x: 9.168476, y: 4.2295055}
+      - {x: 8.99111, y: 4.2295055}
+      - {x: 8.554516, y: 4.202218}
+      - {x: 8.445367, y: 4.365941}
+      - {x: 8.295288, y: 4.5023766}
+      - {x: 8.240714, y: 4.556951}
+      - {x: 7.981486, y: 4.7070303}
+      - {x: 7.763189, y: 4.7616043}
+      - {x: 7.6267533, y: 4.802535}
+      - {x: 6.9991493, y: 4.802535}
+      - {x: 6.535268, y: 4.747961}
+      - {x: 5.85309, y: 4.6660995}
+      - {x: 5.443783, y: 4.652456}
+      - {x: 5.1163373, y: 4.597882}
+      - {x: 5.007189, y: 4.556951}
+      - {x: 4.829822, y: 4.4887333}
+      - {x: 4.679743, y: 4.420515}
+      - {x: 4.5433073, y: 4.3250103}
+      - {x: 4.3250103, y: 4.0930696}
+      - {x: 4.215862, y: 3.7929113}
+      - {x: 4.1612873, y: 3.5336835}
+      - {x: 4.0794263, y: 3.1789508}
+      - {x: 4.0384955, y: 2.9470103}
+      - {x: 3.9975648, y: 2.5377033}
+      - {x: 3.9975648, y: 2.2511883}
+      - {x: 4.024852, y: 1.9100991}
+      - {x: 4.120357, y: 1.6508714}
+      - {x: 4.2295055, y: 1.4325744}
+      - {x: 4.4478025, y: 1.2006338}
+      - {x: 4.5160203, y: 1.1733466}
+      - {x: 4.5433073, y: 1.2006338}
+      - {x: 4.5433073, y: 1.2961388}
+      - {x: 4.584238, y: 1.3370694}
+      - {x: 4.652456, y: 1.255208}
+      - {x: 4.89804, y: 1.0096239}
+      - {x: 5.061763, y: 0.9004753}
+      - {x: 5.3346343, y: 0.7913268}
+      - {x: 5.593862, y: 0.7913268}
+      - {x: 5.634793, y: 0.8049704}
+      - {x: 5.2937036, y: 1.2961388}
+      - {x: 5.08905, y: 1.4462179}
+      - {x: 4.9116836, y: 1.6235843}
 --- !u!1 &2473988331556401532
 GameObject:
   m_ObjectHideFlags: 0
@@ -2129,6 +2243,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2476049281782052792}
   - component: {fileID: 2353072865126131396}
+  - component: {fileID: 5582176023442849128}
   m_Layer: 0
   m_Name: EmptyStar_0000s_0003_eyebrows
   m_TagString: Picture
@@ -2198,6 +2313,58 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &5582176023442849128
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2474499818697706598}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 27.93, y: 13.780001}
+    newSize: {x: 27.93, y: 13.780001}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 6.316971, y: 3.6564755}
+      - {x: 5.9895253, y: 3.6564755}
+      - {x: 5.675723, y: 3.547327}
+      - {x: 5.525644, y: 3.451822}
+      - {x: 5.28006, y: 3.233525}
+      - {x: 5.2664165, y: 3.206238}
+      - {x: 5.2664165, y: 3.0561588}
+      - {x: 5.2937036, y: 2.9606538}
+      - {x: 5.3619213, y: 2.9470103}
+      - {x: 5.5665746, y: 2.9470103}
+      - {x: 5.675723, y: 2.9606538}
+      - {x: 6.316971, y: 3.1243765}
+      - {x: 6.4261193, y: 3.2880993}
+      - {x: 6.4261193, y: 3.5609705}
+    - - {x: 8.308931, y: 3.5882578}
+      - {x: 8.117922, y: 3.6564755}
+      - {x: 7.926912, y: 3.6564755}
+      - {x: 7.8450503, y: 3.5882578}
+      - {x: 7.817763, y: 3.5336835}
+      - {x: 7.817763, y: 3.3426735}
+      - {x: 7.8314066, y: 3.2471685}
+      - {x: 8.022416, y: 3.1243765}
+      - {x: 8.513585, y: 2.9470103}
+      - {x: 8.731882, y: 2.9470103}
+      - {x: 8.827387, y: 2.9606538}
+      - {x: 8.827387, y: 3.2198815}
+      - {x: 8.540872, y: 3.4791093}
 --- !u!1 &2474499957810134082
 GameObject:
   m_ObjectHideFlags: 0
@@ -2490,7 +2657,7 @@ GameObject:
   - component: {fileID: 9145924660647242430}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0003_Layer-75
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2647,7 +2814,7 @@ GameObject:
   - component: {fileID: 6990520615353546624}
   m_Layer: 0
   m_Name: sing_0000s_0000_teeth
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2764,7 +2931,7 @@ GameObject:
   - component: {fileID: 4599110332175723372}
   m_Layer: 0
   m_Name: sing_0000s_0013_dager2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2885,7 +3052,7 @@ GameObject:
   - component: {fileID: 2726350535554330216}
   m_Layer: 0
   m_Name: sing_0000s_0005_eyec2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3007,7 +3174,7 @@ GameObject:
   - component: {fileID: 9195837512389329936}
   m_Layer: 0
   m_Name: sing_0000s_0018_Layer-74
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3165,7 +3332,7 @@ GameObject:
   - component: {fileID: 4102179720579058402}
   m_Layer: 0
   m_Name: sing_0000s_0022_shoes1-copy-2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3287,7 +3454,7 @@ GameObject:
   - component: {fileID: 7634538152706708115}
   m_Layer: 0
   m_Name: sing_0000s_0011_face
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3470,7 +3637,7 @@ GameObject:
   - component: {fileID: 51271544580154968}
   m_Layer: 0
   m_Name: sing_0000s_0023_shoes2-copy-2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3593,7 +3760,7 @@ GameObject:
   - component: {fileID: 1824667234228111138}
   m_Layer: 0
   m_Name: sing_0000s_0003_eye2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3711,7 +3878,7 @@ GameObject:
   - component: {fileID: 7222398384311361624}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0002_Layer-76
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3849,7 +4016,7 @@ GameObject:
   - component: {fileID: 9048189499721703833}
   m_Layer: 0
   m_Name: sing_0000s_0019_sword
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4019,7 +4186,7 @@ GameObject:
   - component: {fileID: 7966884336207153930}
   m_Layer: 0
   m_Name: sing_0000s_0004_eyec1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4142,7 +4309,7 @@ GameObject:
   - component: {fileID: 2747884471354477674}
   m_Layer: 0
   m_Name: sing_0000s_0002_eye1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4261,7 +4428,7 @@ GameObject:
   - component: {fileID: 6911453480614147533}
   m_Layer: 0
   m_Name: sing_0000s_0010_ear
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

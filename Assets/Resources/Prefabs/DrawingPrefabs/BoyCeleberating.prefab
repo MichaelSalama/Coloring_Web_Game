@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 855659732031799947}
   m_Layer: 0
   m_Name: sing_0000s_0006_shoes2-copy-3
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 7514138782189488695}
   m_Layer: 0
   m_Name: sing_0000s_0001_mouth-copy
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -148,7 +148,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2113219011205187362}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.89, y: 0.16, z: -0.26}
+  m_LocalPosition: {x: 6.89, y: 0.16, z: -0.75}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 9022116383542402860}
@@ -251,7 +251,7 @@ GameObject:
   - component: {fileID: 8211927216229490163}
   m_Layer: 0
   m_Name: sing_0000s_0016_leg1-copy-3
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -371,7 +371,7 @@ GameObject:
   - component: {fileID: 7605036718148083530}
   m_Layer: 0
   m_Name: sing_0000s_0003_eye2-copy-2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -487,7 +487,7 @@ GameObject:
   - component: {fileID: 1577302261879362986}
   m_Layer: 0
   m_Name: sing_0000s_0005_eyecircle2-copy
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -611,7 +611,7 @@ GameObject:
   - component: {fileID: 2097092420860317498}
   m_Layer: 0
   m_Name: sing_0000s_0002_eye1-copy-2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -725,7 +725,7 @@ GameObject:
   - component: {fileID: 4899593071528618493}
   m_Layer: 0
   m_Name: sing_0000s_0014_shoes1-copy-3
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -847,7 +847,7 @@ GameObject:
   - component: {fileID: 8435753606031169916}
   m_Layer: 0
   m_Name: sing_0000s_0015_leg2-copy-3
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3081,7 +3081,7 @@ GameObject:
   - component: {fileID: 3975372311016098311}
   m_Layer: 0
   m_Name: sing_0000s_0004_eyecircle1-copy
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3202,7 +3202,7 @@ GameObject:
   - component: {fileID: 3895554764098114696}
   m_Layer: 0
   m_Name: sing_0000s_0000_teeth-copy
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3215,7 +3215,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9126439964022339121}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.8899994, y: 0.16000003, z: -0.26}
+  m_LocalPosition: {x: 6.8899994, y: 0.16000003, z: -0.75}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 9022116383542402860}

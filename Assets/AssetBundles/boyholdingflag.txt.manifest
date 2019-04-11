@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1677949472
+CRC: 550194020
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c715f3288178e9533aa3d91190878816
+    Hash: 2774a3253c39601e63556cde5c08253d
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -39,6 +39,7 @@ Assets:
 - "Assets/Resources/Final Art/boyholdingflag/sing_0000s_0024_\u0627\u0644\u0634\u0648-\u0633\u0645\u0648-\u0647\u0630\u0627.png"
 - Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0004_eyebrows.png
 - Assets/Resources/Final Art/boyholdingflag/sing_0000s_0017_shoes1.png
+- Assets/Resources/Final Art/boyholdingflag/sing_0000s_0019_leg2.png
 - Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0006_Vector-Smart-Object.png
 - Assets/Resources/Final Art/boyholdingflag/sing_0000s_0010_ear.png
 - Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0016_hand-2.png

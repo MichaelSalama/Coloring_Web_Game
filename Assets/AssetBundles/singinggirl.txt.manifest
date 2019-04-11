@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1737941835
+CRC: 2783472248
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 457189a6e9204fdc377463b7ae4091c6
+    Hash: d809fa05d20b468d08a7190c0f8e900f
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -79,4 +79,5 @@ Assets:
 - Assets/Resources/Prefabs/DrawingPrefabs/SingingGirl.prefab
 - Assets/Resources/Final Art/girlsinging/sing_0000s_0000s_0000_toka1-copy.png
 - Assets/Resources/Final Art/girlsinging/sing_0000s_0005s_0005_leg2-copy.png
+- Assets/Resources/Final Art/girlsinging/EmptyStar_0000s_0024_neck.png
 Dependencies: []

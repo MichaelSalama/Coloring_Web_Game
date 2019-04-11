@@ -588,6 +588,7 @@ GameObject:
   m_Component:
   - component: {fileID: 633444314962971283}
   - component: {fileID: 734118085753764357}
+  - component: {fileID: 3755583244378230345}
   m_Layer: 0
   m_Name: EmptyStar_0000s_0003_eyebrows
   m_TagString: Picture
@@ -657,6 +658,48 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &3755583244378230345
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 631120802213164753}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 27.93, y: 13.780001}
+    newSize: {x: 27.93, y: 13.780001}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 8.22707, y: 1.8282378}
+      - {x: 7.763189, y: 1.8282378}
+      - {x: 7.6540403, y: 1.8145943}
+      - {x: 7.6540403, y: 1.5417229}
+      - {x: 7.8041196, y: 1.5144358}
+      - {x: 8.499942, y: 1.5144358}
+      - {x: 8.499942, y: 1.5826536}
+      - {x: 8.240714, y: 1.8145943}
+    - - {x: 5.8940206, y: 2.3466933}
+      - {x: 5.7985153, y: 2.3330498}
+      - {x: 5.634793, y: 2.2375448}
+      - {x: 5.525644, y: 2.101109}
+      - {x: 5.525644, y: 2.0601785}
+      - {x: 5.880377, y: 2.0601785}
+      - {x: 6.344258, y: 2.1283963}
+      - {x: 6.344258, y: 2.2648318}
+      - {x: 6.221466, y: 2.3466933}
 --- !u!1 &631166011729970569
 GameObject:
   m_ObjectHideFlags: 0
@@ -726,7 +769,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 16
-  m_Sprite: {fileID: 21300000, guid: 63872e641e32b654bb5b2abd23d002d3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0ff9f5e09219cdd4e825ff2b1d423c0a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1252,7 +1295,7 @@ GameObject:
   - component: {fileID: 4355947320486127076}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0002_Layer-42
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1405,7 +1448,7 @@ GameObject:
   - component: {fileID: 930014447157313129}
   m_Layer: 0
   m_Name: sing_0000s_0002s_0002_hair
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1536,7 +1579,7 @@ GameObject:
   - component: {fileID: 1502922788168230845}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0001_Layer-40
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1697,7 +1740,7 @@ GameObject:
   - component: {fileID: 4656972368385017565}
   m_Layer: 0
   m_Name: sing_0000s_0007_bag2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1840,7 +1883,7 @@ GameObject:
   - component: {fileID: 8571618756826524957}
   m_Layer: 0
   m_Name: sing_0000s_0010_socks2-copy-3
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1966,7 +2009,7 @@ GameObject:
   - component: {fileID: 7122932514468104602}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0000_Layer-41
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2114,7 +2157,7 @@ GameObject:
   - component: {fileID: 4920462545843536720}
   m_Layer: 0
   m_Name: sing_0000s_0002s_0000_Layer-48
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2253,7 +2296,7 @@ GameObject:
   - component: {fileID: 2808361690956783655}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0002_Layer-38
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2368,7 +2411,7 @@ GameObject:
   - component: {fileID: 8271528641734240005}
   m_Layer: 0
   m_Name: sing_0000s_0000_eye1-copy-3
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2489,7 +2532,7 @@ GameObject:
   - component: {fileID: 2037390561729977580}
   m_Layer: 0
   m_Name: sing_0000s_0003s_0000_Layer-68
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2603,7 +2646,7 @@ GameObject:
   - component: {fileID: 2653956910275048648}
   m_Layer: 0
   m_Name: sing_0000s_0013_socks2-copy-2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2730,7 +2773,7 @@ GameObject:
   - component: {fileID: 3335841084790623746}
   m_Layer: 0
   m_Name: sing_0000s_0001_eye2-copy-3
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2848,7 +2891,7 @@ GameObject:
   - component: {fileID: 5437184590318821664}
   m_Layer: 0
   m_Name: sing_0000s_0009_Layer-60-copy-2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2971,7 +3014,7 @@ GameObject:
   - component: {fileID: 795024803926953780}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0001_Layer-37
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3143,7 +3186,7 @@ GameObject:
   - component: {fileID: 9096754294642073569}
   m_Layer: 0
   m_Name: sing_0000s_0000s_0000_Layer-37-copy
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3314,7 +3357,7 @@ GameObject:
   - component: {fileID: 2754523438224530922}
   m_Layer: 0
   m_Name: sing_0000s_0003s_0001_Layer-67
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3436,7 +3479,7 @@ GameObject:
   - component: {fileID: 1029102566852286469}
   m_Layer: 0
   m_Name: sing_0000s_0001s_0003_Layer-39
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3609,7 +3652,7 @@ GameObject:
   - component: {fileID: 7110351798428781924}
   m_Layer: 0
   m_Name: sing_0000s_0003s_0003_Layer-65
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3792,7 +3835,7 @@ GameObject:
   - component: {fileID: 9050035947043029154}
   m_Layer: 0
   m_Name: sing_0000s_0003s_0002_Layer-66
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3922,7 +3965,7 @@ GameObject:
   - component: {fileID: 1249939609607692473}
   m_Layer: 0
   m_Name: sing_0000s_0002s_0001_toka-copy-2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4036,7 +4079,7 @@ GameObject:
   - component: {fileID: 5755826059609808418}
   m_Layer: 0
   m_Name: sing_0000s_0002_eyec1-copy-2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4169,7 +4212,7 @@ GameObject:
   - component: {fileID: 2652203006443324170}
   m_Layer: 0
   m_Name: sing_0000s_0003_eyec2-copy-2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4305,7 +4348,7 @@ GameObject:
   - component: {fileID: 502676041085331954}
   m_Layer: 0
   m_Name: sing_0000s_0006_bag1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4436,7 +4479,7 @@ GameObject:
   - component: {fileID: 918155805279912322}
   m_Layer: 0
   m_Name: sing_0000s_0011_leg1-copy-5
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4565,7 +4608,7 @@ GameObject:
   - component: {fileID: 7472042416653230061}
   m_Layer: 0
   m_Name: sing_0000s_0014_leg1-copy-4
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4691,7 +4734,7 @@ GameObject:
   - component: {fileID: 2740028944979840298}
   m_Layer: 0
   m_Name: sing_0000s_0012_Layer-60-copy
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4747,7 +4790,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 18
-  m_Sprite: {fileID: 21300000, guid: 5f05b9d431973a04580a76bcba02ce3c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 30610eea6df356b46a24b8e27c5ad85c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e93e1a05575fb0b4c8a09d4fd693c1ba
+guid: e080f0cf065aaf14b9183e9ec89a34b5
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -108,14 +108,14 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: c36bdc6deb629f247a667a3cc0751714
+    spriteID: d236646f4e506494391ed0fb1de20231
     vertices: []
     indices: 
     edges: []
     weights: []
-  spritePackingTag: boyonlaptop
+  spritePackingTag: singinggirl
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
   userData: 
-  assetBundleName: laptopguy
+  assetBundleName: singinggirl
   assetBundleVariant: txt

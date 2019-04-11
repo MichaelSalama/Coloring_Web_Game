@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2691075218
+CRC: 2435897594
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: eb3f36a1a9537d0ffacd7e6c31b9ed2e
+    Hash: dd90858cbc65118447f9faf2fdfb1336
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -36,6 +36,7 @@ ClassTypes:
 Assets:
 - Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0003_eyec2-copy-2.png
 - Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0010_socks2-copy-3.png
+- Assets/Resources/Final Art/GirlsayingHi/EmptyStar_0000s_0006_face.png
 - Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0003s_0000_Layer-68.png
 - Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0000_eye1-copy-3.png
 - Assets/Resources/Final Art/GirlsayingHi/EmptyStar_0000s_0018_packbag2.png
@@ -64,6 +65,7 @@ Assets:
 - Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0007_bag2.png
 - Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0002s_0000_Layer-48.png
 - Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0001s_0000_Layer-41.png
+- Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0012_Layer-60-copy.png
 - Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0001s_0001_Layer-40.png
 - Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0001s_0003_Layer-39.png
 - Assets/Resources/Final Art/GirlsayingHi/sing_0000s_0006_bag1.png

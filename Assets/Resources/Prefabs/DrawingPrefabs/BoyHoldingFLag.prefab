@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2870246893313841492}
   m_Layer: 0
   m_Name: sing_0000s_0003_eye1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 9100980841602208366}
   m_Layer: 0
   m_Name: sing_0000s_0006_eyecircle2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -255,7 +255,7 @@ GameObject:
   - component: {fileID: 2873615123137623348}
   m_Layer: 0
   m_Name: "sing_0000s_0024_\u0627\u0644\u0634\u0648-\u0633\u0645\u0648-\u0647\u0630\u0627"
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -464,7 +464,7 @@ GameObject:
   - component: {fileID: 2780780378647908852}
   m_Layer: 0
   m_Name: sing_0000s_0011_face
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -637,7 +637,7 @@ GameObject:
   - component: {fileID: 7942244248762486045}
   m_Layer: 0
   m_Name: sing_0000s_0020_leg1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -750,7 +750,7 @@ GameObject:
   - component: {fileID: 9068835738791252325}
   m_Layer: 0
   m_Name: sing_0000s_0017_shoes1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -872,7 +872,7 @@ GameObject:
   - component: {fileID: 672799847372527870}
   m_Layer: 0
   m_Name: sing_0000s_0001_teeth
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -987,7 +987,7 @@ GameObject:
   - component: {fileID: 6624852723415723401}
   m_Layer: 0
   m_Name: sing_0000s_0010_ear
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1101,8 +1101,8 @@ GameObject:
   - component: {fileID: 5664829690892732695}
   - component: {fileID: 7302714289892272715}
   m_Layer: 0
-  m_Name: sing_0000s_0017_shoes1
-  m_TagString: Untagged
+  m_Name: sing_0000s_0019_leg2
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1158,7 +1158,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: b6ccde2142cb82f4baa7f5de5fc694b0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7eb70191bfacc3b47abceb4fd7cd4479, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1220,7 +1220,7 @@ GameObject:
   - component: {fileID: 4596726625755570101}
   m_Layer: 0
   m_Name: sing_0000s_0018_shoes2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1344,7 +1344,7 @@ GameObject:
   - component: {fileID: 8716292907841340317}
   m_Layer: 0
   m_Name: sing_0000s_0005_eyecircle1
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1466,7 +1466,7 @@ GameObject:
   - component: {fileID: 267326397365801251}
   m_Layer: 0
   m_Name: sing_0000s_0004_eye2
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1585,7 +1585,7 @@ GameObject:
   - component: {fileID: 5486060774564435360}
   m_Layer: 0
   m_Name: sing_0000s_0000_ear-copy
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2309,6 +2309,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8655675955028189791}
   - component: {fileID: 8862057444683727789}
+  - component: {fileID: 2197175528535838647}
   m_Layer: 0
   m_Name: EmptyStar_0000s_0004_eyebrows
   m_TagString: Picture
@@ -2378,6 +2379,55 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &2197175528535838647
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8650010038696466291}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 27.93, y: 13.780001}
+    newSize: {x: 27.93, y: 13.780001}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 6.3579016, y: 3.3836043}
+      - {x: 6.262397, y: 3.5336835}
+      - {x: 5.9895253, y: 3.5336835}
+      - {x: 5.7848716, y: 3.3153865}
+      - {x: 5.648436, y: 3.015228}
+      - {x: 5.621149, y: 2.9606538}
+      - {x: 5.621149, y: 2.6741388}
+      - {x: 5.634793, y: 2.5922775}
+      - {x: 5.839446, y: 2.5922775}
+      - {x: 6.0168123, y: 2.7560003}
+      - {x: 6.303327, y: 3.0970893}
+      - {x: 6.3579016, y: 3.1925943}
+    - - {x: 8.199783, y: 3.738337}
+      - {x: 7.913268, y: 3.861129}
+      - {x: 7.667684, y: 3.861129}
+      - {x: 7.5858226, y: 3.765624}
+      - {x: 7.5858226, y: 3.5746143}
+      - {x: 7.599466, y: 3.5063963}
+      - {x: 7.8041196, y: 3.4108913}
+      - {x: 8.213427, y: 3.2744558}
+      - {x: 8.404436, y: 3.2744558}
+      - {x: 8.459011, y: 3.3017428}
+      - {x: 8.459011, y: 3.4791093}
+      - {x: 8.445367, y: 3.5336835}
 --- !u!1 &8650019672442930623
 GameObject:
   m_ObjectHideFlags: 0
@@ -2512,7 +2562,7 @@ GameObject:
   - component: {fileID: 6650986505252516423}
   m_Layer: 0
   m_Name: Buttons_0000s_0010_Layer-4
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2943,6 +2993,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8646966153758784531}
   - component: {fileID: 8862465516292781957}
+  - component: {fileID: 2532549070053806961}
   m_Layer: 0
   m_Name: EmptyStar_0000s_0006_Vector-Smart-Object
   m_TagString: Picture
@@ -3012,6 +3063,108 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &2532549070053806961
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8650287308878210225}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 27.93, y: 13.780001}
+    newSize: {x: 27.93, y: 13.780001}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 5.6075053, y: 1.3916436}
+      - {x: 5.5120006, y: 1.4598615}
+      - {x: 5.3482776, y: 1.56901}
+      - {x: 5.225486, y: 1.7190893}
+      - {x: 5.307347, y: 1.9100991}
+      - {x: 5.3209906, y: 2.0874655}
+      - {x: 5.3209906, y: 2.4285548}
+      - {x: 5.307347, y: 2.5240595}
+      - {x: 5.2664165, y: 2.701426}
+      - {x: 5.239129, y: 2.8105745}
+      - {x: 5.2937036, y: 3.0288715}
+      - {x: 5.5529313, y: 3.1243765}
+      - {x: 5.7302976, y: 3.206238}
+      - {x: 5.907664, y: 3.3153865}
+      - {x: 6.1805353, y: 3.5882578}
+      - {x: 6.248753, y: 3.6837628}
+      - {x: 6.289684, y: 3.4927528}
+      - {x: 6.27604, y: 3.3972478}
+      - {x: 6.316971, y: 3.3836043}
+      - {x: 6.3715453, y: 3.3972478}
+      - {x: 6.535268, y: 3.5336835}
+      - {x: 6.65806, y: 3.670119}
+      - {x: 6.65806, y: 3.6019013}
+      - {x: 6.46705, y: 3.3153865}
+      - {x: 6.46705, y: 3.206238}
+      - {x: 6.6444163, y: 3.2471685}
+      - {x: 6.9582186, y: 3.3972478}
+      - {x: 7.2038026, y: 3.5609705}
+      - {x: 7.4220996, y: 3.7929113}
+      - {x: 7.531248, y: 3.9975648}
+      - {x: 7.558535, y: 4.0657825}
+      - {x: 7.6813273, y: 3.956634}
+      - {x: 7.981486, y: 3.7929113}
+      - {x: 8.090634, y: 3.7792675}
+      - {x: 8.268001, y: 3.7792675}
+      - {x: 8.650021, y: 2.9879408}
+      - {x: 8.75917, y: 2.8378615}
+      - {x: 8.800099, y: 2.8515053}
+      - {x: 8.800099, y: 3.1243765}
+      - {x: 8.622733, y: 3.861129}
+      - {x: 8.472654, y: 4.4478025}
+      - {x: 8.445367, y: 4.4887333}
+      - {x: 8.172496, y: 4.420515}
+      - {x: 7.926912, y: 4.338654}
+      - {x: 7.735902, y: 4.5023766}
+      - {x: 7.4630303, y: 4.611525}
+      - {x: 7.381169, y: 4.625169}
+      - {x: 6.930931, y: 4.625169}
+      - {x: 6.5761986, y: 4.5433073}
+      - {x: 6.3306146, y: 4.4478025}
+      - {x: 5.47107, y: 4.1340003}
+      - {x: 5.375565, y: 4.1067133}
+      - {x: 5.0754066, y: 4.011208}
+      - {x: 4.747961, y: 3.8065548}
+      - {x: 4.556951, y: 3.6019013}
+      - {x: 4.4887333, y: 3.424535}
+      - {x: 4.461446, y: 3.3699608}
+      - {x: 4.4478025, y: 3.1789508}
+      - {x: 4.4478025, y: 2.5377033}
+      - {x: 4.461446, y: 2.3739805}
+      - {x: 4.4887333, y: 2.1556833}
+      - {x: 4.5296636, y: 1.9373863}
+      - {x: 4.584238, y: 1.7054456}
+      - {x: 4.6933866, y: 1.4871486}
+      - {x: 4.7888913, y: 1.3370694}
+      - {x: 4.9253273, y: 1.1869903}
+      - {x: 5.034476, y: 1.1051288}
+      - {x: 5.1981983, y: 1.0232674}
+      - {x: 5.252773, y: 1.1051288}
+      - {x: 5.28006, y: 1.1324159}
+      - {x: 5.5802183, y: 0.9823367}
+      - {x: 5.689367, y: 0.941406}
+      - {x: 5.7985153, y: 0.9141189}
+      - {x: 6.098674, y: 0.9141189}
+      - {x: 6.1668916, y: 0.941406}
+      - {x: 6.1805353, y: 0.9823367}
+      - {x: 5.8258023, y: 1.2961388}
 --- !u!1 &8650287880184125477
 GameObject:
   m_ObjectHideFlags: 0
@@ -3432,7 +3585,7 @@ GameObject:
   - component: {fileID: 2580162893807400782}
   m_Layer: 0
   m_Name: sing_0000s_0002_mouth
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3547,7 +3700,7 @@ GameObject:
   - component: {fileID: 5503286632714804494}
   m_Layer: 0
   m_Name: sing_0000s_0023_Layer-5
-  m_TagString: Untagged
+  m_TagString: Picture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
