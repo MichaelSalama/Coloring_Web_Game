@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1560041300
+CRC: 4008360245
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b0ad1b16f6f4c5276642ec7ba6f63298
+    Hash: 8eec043b635b832b1c39070bd7435ad8
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -39,7 +39,6 @@ Assets:
 - Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0002s_0003_Layer-39.png
 - Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0004s_0005_Layer-54.png
 - Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0014_shoes2.png
-- Assets/Resources/Prefabs/DrawingPrefabs/GirlFlag.prefab
 - Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0011_face.png
 - Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0000_buttons.png
 - Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0018_leg1.png
@@ -66,6 +65,7 @@ Assets:
 - Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0000s_0000_Layer-37-copy.png
 - Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0004s_0003_Layer-52.png
 - Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0002s_0000_Layer-41.png
+- Assets/Resources/Prefabs/Test/GirlFlag.prefab
 - Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0001s_0000_Layer-56.png
 - Assets/Resources/Final Art/girlholdingsaudiflag/EmptyStar_0000s_0007_neck.png
 - Assets/Resources/Final Art/girlholdingsaudiflag/sing_0000s_0000_eye1-copy.png

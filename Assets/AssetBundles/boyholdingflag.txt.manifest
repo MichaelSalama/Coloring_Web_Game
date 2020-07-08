@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 550194020
+CRC: 640482703
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2774a3253c39601e63556cde5c08253d
+    Hash: 0039af30f8b14fdaf82a6e16841f55cf
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -58,8 +58,8 @@ Assets:
 - Assets/Resources/Final Art/boyholdingflag/sing_0000s_0000_ear-copy.png
 - Assets/Resources/Final Art/boyholdingflag/sing_0000s_0004_eye2.png
 - Assets/Resources/Final Art/boyholdingflag/sing_0000s_0002_mouth.png
+- Assets/Resources/Prefabs/Test/BoyHoldingFLag.prefab
 - Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0008_hand-2.png
 - Assets/Resources/Final Art/boyholdingflag/EmptyStar_0000s_0011_flag.png
-- Assets/Resources/Prefabs/DrawingPrefabs/BoyHoldingFLag.prefab
 - Assets/Resources/Final Art/boyholdingflag/sing_0000s_0001_teeth.png
 Dependencies: []

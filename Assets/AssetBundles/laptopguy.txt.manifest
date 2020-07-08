@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3647156573
+CRC: 1767900452
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: efadfa5a591b0e1444c68e3479ebc8c2
+    Hash: 74d9586932ad30213a09bb31f28f6d0d
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -53,9 +53,9 @@ Assets:
 - Assets/Resources/Final Art/boyonlaptob/EmptyStar_0000s_0006_hair.png
 - Assets/Resources/Final Art/boyonlaptob/sing_0000s_0003_eye2.png
 - Assets/Resources/Final Art/boyonlaptob/sing_0000s_0018_leg1.png
+- Assets/Resources/Prefabs/Test/LaptopGuy.prefab
 - Assets/Resources/Final Art/boyonlaptob/EmptyStar_0000s_0013_neck.png
 - Assets/Resources/Final Art/boyonlaptob/EmptyStar_0000s_0010_laptop.png
 - "Assets/Resources/Final Art/boyonlaptob/EmptyStar_0000s_0017_\u0627\u0644\u0634\u0648-\u0627\u0633\u0645\u0648-\u0647\u0630\u0627.png"
 - Assets/Resources/Final Art/boyonlaptob/EmptyStar_0000s_0015_sleeve1.png
-- Assets/Resources/Prefabs/DrawingPrefabs/LaptopGuy.prefab
 Dependencies: []

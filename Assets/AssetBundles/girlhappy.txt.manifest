@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2733763493
+CRC: 2681409530
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 860c1bfc0dddba6240a7b4093dde6adc
+    Hash: 2a3a7980aab23d1b1d3c0d061f907866
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -35,7 +35,6 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0000_Layer-60-copy-6.png
-- Assets/Resources/Prefabs/DrawingPrefabs/GirlHappy.prefab
 - Assets/Resources/Final Art/Girlwelcoming/EmptyStar_0000s_0018_arm1.png
 - Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0002s_0002_ponytail.png
 - Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0014_Layer-83.png
@@ -69,4 +68,5 @@ Assets:
 - Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0017_leg1.png
 - Assets/Resources/Final Art/Girlwelcoming/EmptyStar_0000s_0000_eyeebrows.png
 - Assets/Resources/Final Art/Girlwelcoming/sing_0000s_0018_leg2.png
+- Assets/Resources/Prefabs/Test/GirlHappy.prefab
 Dependencies: []

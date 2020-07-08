@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2973869736
+CRC: 877603251
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 98cb79c2d975009ef892a10e1b63ef0e
+    Hash: 618e94945ab8218dc159f4a922830ee3
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -64,7 +64,6 @@ Assets:
 - Assets/Resources/Final Art/Girlinlove/EmptyStar_0000s_0009_arm2.png
 - Assets/Resources/Final Art/Girlinlove/sing_0000s_0002s_0001_Layer-81.png
 - Assets/Resources/Final Art/Girlinlove/EmptyStar_0000s_0010_toka.png
-- Assets/Resources/Prefabs/DrawingPrefabs/GirlInLove.prefab
 - Assets/Resources/Final Art/Girlinlove/sing_0000s_0001s_0001_Layer-40.png
 - Assets/Resources/Final Art/Girlinlove/EmptyStar_0000s_0012_packbag.png
 - Assets/Resources/Final Art/Girlinlove/sing_0000s_0004s_0001_Layer-67.png
@@ -73,4 +72,5 @@ Assets:
 - Assets/Resources/Final Art/Girlinlove/sing_0000s_0003_eyec2-copy-3.png
 - Assets/Resources/Final Art/Girlinlove/sing_0000s_0004s_0003_Layer-65.png
 - Assets/Resources/Final Art/Girlinlove/EmptyStar_0000s_0018_arm.png
+- Assets/Resources/Prefabs/Test/GirlInLove.prefab
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2406339039
+CRC: 3290179651
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aff1b08ecaef94d7fa8a27e01fad6841
+    Hash: 8d7e24a72d8ac812323c103925d7914e
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -41,6 +41,7 @@ Assets:
 - Assets/Resources/Final Art/girl&boyplayingwithfesha/sing_0000s_0001s_0001_mouth.png
 - Assets/Resources/Final Art/girl&boyplayingwithfesha/sing_0000s_0001s_0013_Layer-570.png
 - Assets/Resources/Final Art/girl&boyplayingwithfesha/sing_0000s_0001s_0025_shoes1.png
+- Assets/Resources/Prefabs/Test/RobBoyGirl.prefab
 - Assets/Resources/Final Art/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0011_boy_sleeve1.png
 - Assets/Resources/Final Art/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0021_Vector-Smart-Object.png
 - Assets/Resources/Final Art/girl&boyplayingwithfesha/sing_0000s_0000s_0025_so2.png
@@ -54,7 +55,6 @@ Assets:
 - Assets/Resources/Final Art/girl&boyplayingwithfesha/sing_0000s_0000s_0017_shoes1-copy-4.png
 - Assets/Resources/Final Art/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0017_Vector-Smart-Object.png
 - Assets/Resources/Final Art/girl&boyplayingwithfesha/EmptyStar_0000s_0001s_0027_girl_neck.png
-- Assets/Resources/Prefabs/DrawingPrefabs/FeshaBoyGirl.prefab
 - Assets/Resources/Final Art/girl&boyplayingwithfesha/sing_0000s_0000s_0002_eye1.png
 - Assets/Resources/Final Art/girl&boyplayingwithfesha/sing_0000s_0001s_0026_shoes2.png
 - Assets/Resources/Final Art/girl&boyplayingwithfesha/EmptyStar_0000s_0000s_0014_boy_body.png

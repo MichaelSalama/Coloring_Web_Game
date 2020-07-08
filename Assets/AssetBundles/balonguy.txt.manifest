@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3713230155
+CRC: 71427453
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1dccf5beddde615b797586c9d37fb52d
+    Hash: a138f722a7b061cb95e1b3f564967227
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -54,6 +54,7 @@ Assets:
 - Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0003_eyebrows.png
 - Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0000s_0002_cap2.png
 - Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0000_eye1-copy-7.png
+- Assets/Resources/Prefabs/Test/BalonGuy.prefab
 - "Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0016_\u0627\u0644\u0634\u0648\u0633\u0645\u0648-\u0647\u0630\u0627.png"
 - Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0000s_0003_cap3.png
 - Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0013_hair.png
@@ -73,7 +74,6 @@ Assets:
 - Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0001_eye2-copy-5.png
 - Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0005_Layer-37-copy-2.png
 - Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0011_head.png
-- Assets/Resources/Prefabs/DrawingPrefabs/BalonGuy.prefab
 - Assets/Resources/Final Art/boyholdingballon/EmptyStar_0000s_0002_eyes2.png
 - Assets/Resources/Final Art/boyholdingballon/sing_0000s_0005_eyec2.png
 - Assets/Resources/Final Art/boyholdingballon/sing_0000s_0000s_0010_Layer-42-copy.png

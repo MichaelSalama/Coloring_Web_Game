@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2783472248
+CRC: 1455511059
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d809fa05d20b468d08a7190c0f8e900f
+    Hash: d1e2598a7ae36e22ee514aab52dcbd5a
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -60,6 +60,7 @@ Assets:
 - Assets/Resources/Final Art/girlsinging/sing_0000s_0008_bag2.png
 - Assets/Resources/Final Art/girlsinging/sing_0000s_0000s_0000s_0001_Layer-37.png
 - Assets/Resources/Final Art/girlsinging/EmptyStar_0000s_0007_music.png
+- Assets/Resources/Prefabs/Test/SingingGirl.prefab
 - Assets/Resources/Final Art/girlsinging/EmptyStar_0000s_0017_arms.png
 - Assets/Resources/Final Art/girlsinging/sing_0000s_0002s_0000_Layer-62.png
 - Assets/Resources/Final Art/girlsinging/sing_0000s_0000s_0001s_0001_Layer-40.png
@@ -76,7 +77,6 @@ Assets:
 - Assets/Resources/Final Art/girlsinging/sing_0000s_0002s_0003_Layer-61.png
 - Assets/Resources/Final Art/girlsinging/EmptyStar_0000s_0001_mouth.png
 - Assets/Resources/Final Art/girlsinging/sing_0000s_0004s_0002_Layer-66.png
-- Assets/Resources/Prefabs/DrawingPrefabs/SingingGirl.prefab
 - Assets/Resources/Final Art/girlsinging/sing_0000s_0000s_0000_toka1-copy.png
 - Assets/Resources/Final Art/girlsinging/sing_0000s_0005s_0005_leg2-copy.png
 - Assets/Resources/Final Art/girlsinging/EmptyStar_0000s_0024_neck.png

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2125172074
+CRC: 3235564529
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f0913127dac31d9fc66ebec7a470ed0d
+    Hash: 1d4b534caba65a3f260e0d74ba6c6ac7
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -44,6 +44,7 @@ Assets:
 - Assets/Resources/Final Art/boywearingsaudiknife/sing_0000s_0005_eyec2.png
 - Assets/Resources/Final Art/boywearingsaudiknife/sing_0000s_0018_Layer-74.png
 - Assets/Resources/Final Art/boywearingsaudiknife/EmptyStar_0000s_0018_hand1.png
+- Assets/Resources/Prefabs/Test/KnifeBoy.prefab
 - Assets/Resources/Final Art/boywearingsaudiknife/sing_0000s_0025_leg1-copy-2.png
 - Assets/Resources/Final Art/boywearingsaudiknife/EmptyStar_0000s_0003_eyebrows.png
 - Assets/Resources/Final Art/boywearingsaudiknife/sing_0000s_0000s_0003_Layer-75.png
@@ -59,7 +60,6 @@ Assets:
 - "Assets/Resources/Final Art/boywearingsaudiknife/EmptyStar_0000s_0016_\u0627\u0644\u0634\u0648\u0633\u0645\u0648-\u0647\u0630\u0627.png"
 - Assets/Resources/Final Art/boywearingsaudiknife/sing_0000s_0002_eye1.png
 - Assets/Resources/Final Art/boywearingsaudiknife/sing_0000s_0000_teeth.png
-- Assets/Resources/Prefabs/DrawingPrefabs/KnifeBoy.prefab
 - Assets/Resources/Final Art/boywearingsaudiknife/sing_0000s_0023_shoes2-copy-2.png
 - Assets/Resources/Final Art/boywearingsaudiknife/sing_0000s_0003_eye2.png
 - Assets/Resources/Final Art/boywearingsaudiknife/EmptyStar_0000s_0004_head.png

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2692892748
+CRC: 2536646186
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f6fb6341809f91d694af810de5847a6e
+    Hash: 14e6d6bd1c7177c4eac97a8405ebb906
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd5dc8013754e73a73735befa0c09aa1
@@ -36,6 +36,7 @@ ClassTypes:
 Assets:
 - Assets/Resources/Final Art/girlwondering/sing_0000s_0000s_0001_Layer-37.png
 - Assets/Resources/Final Art/girlwondering/sing_0000s_0022_leg2.png
+- Assets/Resources/Prefabs/Test/WonderGirl.prefab
 - Assets/Resources/Final Art/girlwondering/sing_0000s_0003s_0001_Layer-46.png
 - Assets/Resources/Final Art/girlwondering/sing_0000s_0003_eyec2.png
 - Assets/Resources/Final Art/girlwondering/EmptyStar_0000s_0021_Vector-Smart-Object.png
@@ -71,7 +72,6 @@ Assets:
 - Assets/Resources/Final Art/girlwondering/sing_0000s_0018_shoes1.png
 - Assets/Resources/Final Art/girlwondering/EmptyStar_0000s_0015_arm1.png
 - Assets/Resources/Final Art/girlwondering/sing_0000s_0001s_0002_Layer-42.png
-- Assets/Resources/Prefabs/DrawingPrefabs/WonderGirl.prefab
 - Assets/Resources/Final Art/girlwondering/sing_0000s_0002s_0000_Layer-43.png
 - Assets/Resources/Final Art/girlwondering/sing_0000s_0002_eyec1.png
 Dependencies: []
